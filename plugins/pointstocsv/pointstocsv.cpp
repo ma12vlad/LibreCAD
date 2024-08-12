@@ -74,7 +74,7 @@ lc_Exptocsvdlg::lc_Exptocsvdlg(QWidget *parent, Document_Interface *doc) :  QDia
         ExpTo_Csv expToCsvInstance; 
         setWindowTitle(expToCsvInstance.name());
         
-        QLabel *label = new QLabel(tr("Entity type:", this));
+        QLabel *label = new QLabel(tr("Entity type:"), this);
         label->setGeometry(10,5,100,30);
         
         QComboBox *comboBox = new QComboBox(this);
@@ -88,10 +88,10 @@ lc_Exptocsvdlg::lc_Exptocsvdlg(QWidget *parent, Document_Interface *doc) :  QDia
         selectButton->setGeometry(300,5, 120, 30);
         
 
-        QPushButton *exportButton = new QPushButton(tr("Export", this));
+        QPushButton *exportButton = new QPushButton(tr("Export"), this);
         exportButton->setGeometry(300,40, 120, 30);
         
-        selectedEntitiesLabel = new QLabel(tr("0 entities selected", this));
+        selectedEntitiesLabel = new QLabel(tr("0 entities selected"), this);
 
         selectedEntitiesLabel->setGeometry(10,40,150,30);
         
@@ -262,13 +262,13 @@ void lc_Exptocsvdlg::setSelectedObj(QList<Plug_Entity *> *obj){
 }
 void lc_Exptocsvdlg::setSelectedLabelCounterText(int count){
     if(count==1){
-        selectedEntitiesLabel->setText(tr(" 1 element selected "));
+        selectedEntitiesLabel->setText(" 1 element selected ");
     } else if( count==0 || count >1 ){
         QString text = " %1 elements selected ";
         selectedEntitiesLabel->setText(text.arg(selectedObj.size()) );
     } else {
 
-        selectedEntitiesLabel->setText(tr("Invalid selection" ));
+        selectedEntitiesLabel->setText("Invalid selection" );
     }
 }
 void lc_Exptocsvdlg::clearSelectedObj(){
