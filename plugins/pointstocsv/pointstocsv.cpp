@@ -84,7 +84,7 @@ lc_Exptocsvdlg::lc_Exptocsvdlg(QWidget *parent, Document_Interface *doc) :  QDia
         comboBox->addItem(strPolyline);
         comboBox->setGeometry(120,5,150,30);
         
-        QPushButton *selectButton = new QPushButton(tr("Select objects", this));
+        QPushButton *selectButton = new QPushButton(tr("Select objects"), this);
         selectButton->setGeometry(300,5, 120, 30);
         
 
