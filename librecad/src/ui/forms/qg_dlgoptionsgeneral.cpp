@@ -404,14 +404,14 @@ void QG_DlgOptionsGeneral::on_pb_clear_all_clicked()
     if (reply == QMessageBox::Yes)
     {
       RS_SETTINGS->clear_all();
-      QMessageBox::information(this, "info", "You must restart LibreCAD to see the changes.");
+      QMessageBox::information(this, tr("info"), tr("You must restart LibreCAD to see the changes."));
     }
 }
 
 void QG_DlgOptionsGeneral::on_pb_clear_geometry_clicked()
 {
     RS_SETTINGS->clear_geometry();
-    QMessageBox::information(this, "info", "You must restart LibreCAD to see the changes.");
+    QMessageBox::information(this, tr("info"), tr("You must restart LibreCAD to see the changes."));
 }
 
 void QG_DlgOptionsGeneral::setVariableFile()
