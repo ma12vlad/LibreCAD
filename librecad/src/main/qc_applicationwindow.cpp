@@ -273,7 +273,7 @@ QC_ApplicationWindow::QC_ApplicationWindow()
              << "DrawPoint";
 
         auto toolbar = new QToolBar(tr("DefaultCustom"), this);
-        toolbar->setObjectName("DefaultCustom");
+        toolbar->setObjectName(tr("DefaultCustom"));
         foreach (auto& action, list)
         {
             toolbar->addAction(a_map[action]);
