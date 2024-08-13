@@ -3593,6 +3593,7 @@ Please note that if you&apos;ll save pen via editor without restart, current pen
         </message>
         <message>
             <location line="275" filename="../src/main/qc_applicationwindow.cpp"/>
+            <location line="276" filename="../src/main/qc_applicationwindow.cpp"/>
             <source>DefaultCustom</source>
             <translation>Пользовательская</translation>
         </message>
