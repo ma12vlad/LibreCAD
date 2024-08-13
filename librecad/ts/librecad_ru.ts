@@ -3604,7 +3604,7 @@ Please note that if you&apos;ll save pen via editor without restart, current pen
         <message>
             <location line="500" filename="../src/main/qc_applicationwindow.cpp"/>
             <source>Saving drawing: %1</source>
-            <translation>Сохранение рисунка: %1</translation>
+            <translation>Сохранение чертежа: %1</translation>
         </message>
         <message>
             <location line="505" filename="../src/main/qc_applicationwindow.cpp"/>
@@ -3638,14 +3638,14 @@ Please note that if you&apos;ll save pen via editor without restart, current pen
         <message>
             <location line="635" filename="../src/main/qc_applicationwindow.cpp"/>
             <source>Closing Drawing</source>
-            <translation>Закрытие рисунка</translation>
+            <translation>Закрытие чертежа</translation>
         </message>
         <message>
             <location line="643" filename="../src/main/qc_applicationwindow.cpp"/>
             <source>Save changes to the following item?
 %1</source>
-            <translation>Сохранить изменения в следующем элементе?
-%1</translation>
+            <translation>Сохранить изменения в
+%1?</translation>
         </message>
         <message>
             <location line="655" filename="../src/main/qc_applicationwindow.cpp"/>
