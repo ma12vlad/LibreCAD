@@ -19505,7 +19505,7 @@ anti-clockwise.</source>
     <message>
         <location filename="../../plugins/gear/gear.cpp" line="115"/>
         <source>Modulus</source>
-        <translation>Модуль</translation>
+        <translation>Модуль шестерни</translation>
     </message>
     <message>
         <location filename="../../plugins/gear/gear.cpp" line="116"/>
