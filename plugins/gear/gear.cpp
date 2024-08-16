@@ -70,7 +70,7 @@ lc_Geardlg::lc_Geardlg(QWidget *parent) :
     QDialog(parent),
     settings(QSettings::IniFormat, QSettings::UserScope, "LibreCAD", "gear_plugin")
 {
-    const char *windowTitle = "Draw a gear";
+    const char *windowTitle = tr("Draw a gear");
 
     setWindowTitle(tr(windowTitle));
 
