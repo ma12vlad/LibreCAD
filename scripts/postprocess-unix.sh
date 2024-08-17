@@ -6,7 +6,6 @@ PIDIR="${THISDIR}/plugins"
 RESOURCEDIR="${THISDIR}/unix/resources"
 APPDATADIR="${THISDIR}/unix/appdata"
 TSDIRLC="${LCDIR}/ts"
-TSDIRPI="${PIDIR}/ts"
 SPTDIR="${LCDIR}/support"
 DESKTOPDIR="${THISDIR}/desktop"
 LRELEASE="lrelease"
@@ -23,17 +22,10 @@ find "${SPTDIR}"/library -type f -iname *.dxf | sed 's/^.*support//' | xargs -IF
 
 # Generate translations
 ${LRELEASE} "${LCDIR}"/src/src.pro
-${LRELEASE} "${PIDIR}"/plugins.pro
 mkdir -p "${RESOURCEDIR}"/qm
 
 # Go into translations directory
 cd "${TSDIRLC}"
-for tf in *.qm
-do
-        cp "${tf}" "${RESOURCEDIR}/qm/${tf}"
-done
-
-cd "${TSDIRPI}"
 for tf in *.qm
 do
         cp "${tf}" "${RESOURCEDIR}/qm/${tf}"
