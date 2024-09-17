@@ -1633,12 +1633,12 @@ or [%2]</source>
     <message>
         <location filename="../../plugins/align/align.cpp" line="49"/>
         <source>Keep original objects</source>
-        <translation>Сохранить оригинальные объекты</translation>
+        <translation>Сохранить исходные объекты</translation>
     </message>
     <message>
         <location filename="../../plugins/align/align.cpp" line="50"/>
         <source>Specify base points first</source>
-        <translation>Сначала укажите базовые точки</translation>
+        <translation>Сначала указать базовые точки</translation>
     </message>
     <message>
         <location filename="../../plugins/align/align.cpp" line="54"/>
