@@ -4442,7 +4442,7 @@ Please note that if you&apos;ll save pen via editor without restart, current pen
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="1160"/>
         <source>Rounded</source>
-        <translation>Закругленные</translation>
+        <translation>Прямоугольные</translation>
     </message>
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="1164"/>
