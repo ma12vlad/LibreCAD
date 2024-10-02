@@ -4742,7 +4742,7 @@ Auto-save disabled.</source>
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="3403"/>
         <source>Cmd</source>
-        <translation>Cmd</translation>
+        <translation>Команда</translation>
     </message>
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="3403"/>
@@ -5460,7 +5460,7 @@ in a separate window</source>
     <message>
         <location filename="../src/ui/forms/qg_commandwidget.cpp" line="339"/>
         <source>Cmd</source>
-        <translation>Cmd</translation>
+        <translation>Команда</translation>
     </message>
 </context>
 <context>
