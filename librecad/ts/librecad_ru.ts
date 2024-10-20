@@ -4750,7 +4750,7 @@ Auto-save disabled.</source>
     <message>
         <location filename="../src/ui/lc_widgetfactory.cpp" line="988"/>
         <source>&amp;Toolbars</source>
-        <translation>&amp;Панели инструментов</translation>
+        <translation>&amp;Панель инструментов</translation>
     </message>
 </context>
 <context>
