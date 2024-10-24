@@ -3791,6 +3791,25 @@ void QC_ApplicationWindow::invokeLicenseWindow()
 }
 
 
+void QC_ApplicationWindow::invokeScommandWindow()
+{
+    // author: ma12vlad
+
+    QDialog dlg;
+
+    dlg.setWindowTitle(QObject::tr("Short commands"));
+
+    auto viewer = new TextFileViewer(&dlg);
+    auto layout = new QVBoxLayout;
+    layout->addWidget(viewer);
+    dlg.setLayout(layout);
+
+    viewer->addFile((tr("rucommands")), ":/rucommands.txt");
+
+    dlg.exec();
+}
+
+
 QC_MDIWindow* QC_ApplicationWindow::getWindowWithDoc(const RS_Document* doc)
 {
     QC_MDIWindow* wwd = nullptr;

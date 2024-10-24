@@ -238,6 +238,8 @@ public slots:
     void updateMenu(const QString& menu_name);
 
     void invokeLicenseWindow();
+    void invokeScommandWindow();
+
 
 
 signals:
