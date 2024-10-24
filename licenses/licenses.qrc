@@ -2,5 +2,6 @@
 <qresource>
     <file>readme.md</file>
     <file>gpl-2.0.txt</file>
+    <file>rucommands.txt</file>
 </qresource>
 </RCC>
