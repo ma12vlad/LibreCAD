@@ -3763,7 +3763,7 @@ Please note that if you&apos;ll save pen via editor without restart, current pen
     <message>
         <location filename="../src/ui/forms/lc_staroptions.ui" line="26"/>
         <source>Radius Inner</source>
-        <translation></translation>
+        <translation>Внутренний радиус</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_staroptions.ui" line="49"/>
@@ -4467,6 +4467,11 @@ Auto-save disabled.</source>
         <translation>Назначить меню</translation>
     </message>
     <message>
+        <location filename="../src/main/qc_applicationwindow.cpp" line="3807"/>
+        <source>rucommands</source>
+        <translation>ру_команды</translation>
+    </message>
+    <message>
         <location filename="../src/ui/lc_widgetfactory.cpp" line="257"/>
         <location filename="../src/ui/lc_widgetfactory.cpp" line="520"/>
         <source>Line</source>
@@ -4578,7 +4583,7 @@ Auto-save disabled.</source>
     </message>
     <message>
         <location filename="../src/ui/lc_widgetfactory.cpp" line="483"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="951"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="955"/>
         <source>Dock Areas</source>
         <translation>Дополнительные панели</translation>
     </message>
@@ -4733,22 +4738,22 @@ Auto-save disabled.</source>
         <translation>Он&amp;лайн</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="938"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="942"/>
         <source>&amp;Donate</source>
         <translation>&amp;Пожертвовать</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="946"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="950"/>
         <source>Widgets</source>
         <translation>Виджеты</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="961"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="965"/>
         <source>Dock Wid&amp;gets</source>
         <translation>&amp;Стыкуемые виджеты</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="988"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="992"/>
         <source>&amp;Toolbars</source>
         <translation>&amp;Панель инструментов</translation>
     </message>
@@ -7364,7 +7369,7 @@ Please choose the unit you want to use for new drawings and your preferred langu
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsgeneral.ui" line="880"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:&apos;-apple-system&apos;,&apos;BlinkMacSystemFont&apos;,&apos;Segoe UI&apos;,&apos;Noto Sans&apos;,&apos;Helvetica&apos;,&apos;Arial&apos;,&apos;sans-serif&apos;,&apos;Apple Color Emoji&apos;,&apos;Segoe UI Emoji&apos;; font-size:14px; color:#1f2328; background-color:#ffffff;&quot;&gt;Part library folder. The symbol library dxf files must be located in the subdirectories of this folder. The subfolder names will be displayed in the Library Browser.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:&apos;-apple-system&apos;,&apos;BlinkMacSystemFont&apos;,&apos;Segoe UI&apos;,&apos;Noto Sans&apos;,&apos;Helvetica&apos;,&apos;Arial&apos;,&apos;sans-serif&apos;,&apos;Apple Color Emoji&apos;,&apos;Segoe UI Emoji&apos;; font-size:14px; color:#1f2328; background-color:#ffffff;&quot;&gt;( Menu: Widgets &amp;gt; Dock Widgets &amp;gt; Library Browser)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-family:&apos;-apple-system&apos;,&apos;BlinkMacSystemFont&apos;,&apos;Segoe UI&apos;,&apos;Noto Sans&apos;,&apos;Helvetica&apos;,&apos;Arial&apos;,&apos;sans-serif&apos;,&apos;Apple Color Emoji&apos;,&apos;Segoe UI Emoji&apos;; font-size:14px; color:#1f2328; background-color:#ffffff;&quot;&gt;Part library folder. The symbol library dxf files must be located in the subdirectories of this folder. The subfolder names will be displayed in the Library Browser.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-family:&apos;-apple-system&apos;,&apos;BlinkMacSystemFont&apos;,&apos;Segoe UI&apos;,&apos;Noto Sans&apos;,&apos;Helvetica&apos;,&apos;Arial&apos;,&apos;sans-serif&apos;,&apos;Apple Color Emoji&apos;,&apos;Segoe UI Emoji&apos;; font-size:14px; color:#1f2328; background-color:#ffffff;&quot;&gt;( Menu: Widgets &gt; Dock Widgets &gt; Library Browser)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12499,7 +12504,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="1183"/>
         <source>l</source>
         <comment>length</comment>
-        <translation type="unfinished"></translation>
+        <translation>линия</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="1185"/>
@@ -13403,6 +13408,12 @@ This action can NOT be undone.</source>
         <location filename="../src/ui/lc_widgetfactory.cpp" line="934"/>
         <source>License</source>
         <translation>Лицензия</translation>
+    </message>
+    <message>
+        <location filename="../src/main/qc_applicationwindow.cpp" line="3800"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="938"/>
+        <source>Short commands</source>
+        <translation>Короткие команды</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_commandwidget.cpp" line="66"/>
