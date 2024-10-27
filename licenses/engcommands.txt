@@ -1,0 +1,77 @@
+1. Draw
+po/point_____Draw Point
+l/li/line____Draw Line
+pl/polyline__Draw Polyline
+o/pa/offset/parallel__Draw Line Parallel
+a/ar/arc_____Draw Arc 3P
+ci/circle____Draw Circle
+rec/rect/rectangle____Draw Line Rectangle
+mt/mtext_____Draw M Text
+txt/text_____Draw Text
+ha/hatch_____Draw Hatch
+fhl/free_____Draw Line Free
+spl/spline___Draw Spline
+stp/spline2__Draw Spline Points
+ortho/perp___Draw Line Orthogonal
+ver/vertical_Draw Line Vertical
+hor/horizontal__Draw Line Horizontal
+ei/ie________Draw Ellipse Inscribed
+bi/bisect____Draw Line Bisector
+tanpc/tangentpc_Draw Line Tangent1
+poly2/polygon2v_Draw Line Polygon Cor Cor
+pp/ptp_______Draw Line Parallel Through
+c2/circle2___Draw Circle 2P
+c3/circle3___Draw Circle 3P
+ct3/tan3_____Draw Circle Tan 3
+2. View
+zr/rg/regen/redraw__Zoom Redraw
+zw___________Zoom Window
+za___________Zoom Auto
+zp___________Zoom Pan
+zv___________Zoom Previous
+3. Edit
+u/undo/oo____Edit Undo
+r/redo/uu____Edit Redo
+k/kill_______Edit Kill All Actions
+4. Dimension
+da___________Dim Aligned
+dr___________Dim Linear
+dh___________Dim Linear Hor
+dv___________Dim Linear Ver
+ld___________Dim Leader
+5. Modify
+tm/trim______Modify Trim
+t2/tm2_______Modify Trim 2
+mv___________Modify Move
+ch/fillet____Modify Bevel
+mi___________Modify Mirror
+ro___________Modify Rotate
+sz___________Modify Scale
+ss___________Modify Stretch
+er___________Modify Delete
+xp___________Blocks Explode
+di/div/cut___Modify Cut
+mp/prop______Modify Entity
+fi/fillet____Modify Round
+ma/attr______Modify Attributes
+6. Snap
+os/sf________Snap Free
+sg___________Snap Grid
+se___________Snap Endpoint
+si___________SnapIntersection
+sc___________Snap Center
+sm___________Snap Middle
+np/sn________Snap On Entity
+sd___________Snap Dist
+rn___________Restrict Nothing
+rr___________Restrict Orthogonal
+rh___________Restrict Horizontal
+rv___________Restrict Vertical
+rz___________Set Relative Zero
+7. Selection
+tn___________Deselect All
+sa___________Select All
+8. Information
+dpp/dist_____Info Dist
+ang/angle____Info Angle
+ar/area______Info Area
