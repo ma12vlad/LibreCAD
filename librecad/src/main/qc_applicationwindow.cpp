@@ -3805,6 +3805,7 @@ void QC_ApplicationWindow::invokeScommandWindow()
     dlg.setLayout(layout);
 
     viewer->addFile((tr("rucommands")), ":/rucommands.txt");
+    viewer->addFile((tr("engcommands")), ":/engcommands.txt");
 
     dlg.exec();
 }
