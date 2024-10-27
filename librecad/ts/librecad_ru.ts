@@ -11644,13 +11644,13 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="835"/>
         <source>text</source>
         <comment>draw text</comment>
-        <translation>текст</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="836"/>
         <source>tx</source>
         <comment>draw text</comment>
-        <translation type="unfinished"></translation>
+        <translation>текст</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="837"/>
@@ -11674,7 +11674,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="848"/>
         <source>point</source>
         <comment>draw point</comment>
-        <translation>т</translation>
+        <translation>тчк</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="849"/>
