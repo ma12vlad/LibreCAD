@@ -10155,7 +10155,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="152"/>
         <source>line</source>
         <comment>draw line</comment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="153"/>
@@ -10467,7 +10467,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="292"/>
         <source>ptp</source>
         <comment>parallel through point</comment>
-        <translation type="unfinished"></translation>
+        <translation>плчт</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="297"/>
@@ -10485,7 +10485,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="299"/>
         <source>bisect</source>
         <comment>angle bisector</comment>
-        <translation type="unfinished"></translation>
+        <translation>бис</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="304"/>
@@ -10503,7 +10503,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="306"/>
         <source>tanpc</source>
         <comment>tangent point and circle</comment>
-        <translation type="unfinished"></translation>
+        <translation>касл</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="311"/>
@@ -10533,7 +10533,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="323"/>
         <source>lineperp</source>
         <comment>perpendicular line</comment>
-        <translation>пл</translation>
+        <translation>перл</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="324"/>
@@ -10689,7 +10689,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="387"/>
         <source>circlecr</source>
         <comment>circle point radius</comment>
-        <translation type="unfinished"></translation>
+        <translation>отр</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="388"/>
@@ -10761,7 +10761,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="417"/>
         <source>tan3</source>
         <comment>circle tangent to 3</comment>
-        <translation type="unfinished"></translation>
+        <translation>окк3</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="424"/>
@@ -10887,7 +10887,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="476"/>
         <source>fh</source>
         <comment>draw freehand line</comment>
-        <translation type="unfinished"></translation>
+        <translation>прл</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="477"/>
@@ -10911,7 +10911,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="490"/>
         <source>ellipse3p</source>
         <comment>ellipse foci</comment>
-        <translation type="unfinished"></translation>
+        <translation>эл3т</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="491"/>
@@ -10923,7 +10923,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="496"/>
         <source>ellipse4p</source>
         <comment>ellipse 4 point</comment>
-        <translation type="unfinished"></translation>
+        <translation>эл4т</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="497"/>
@@ -10935,7 +10935,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="502"/>
         <source>ellipsec3p</source>
         <comment>ellipse center 3 point</comment>
-        <translation type="unfinished"></translation>
+        <translation>элц3т</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="503"/>
@@ -10953,7 +10953,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="509"/>
         <source>ei</source>
         <comment>inscribed ellipse</comment>
-        <translation type="unfinished"></translation>
+        <translation>впэл</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="510"/>
@@ -11122,7 +11122,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="599"/>
         <source>invertselect</source>
         <comment>invert select</comment>
-        <translation type="unfinished"></translation>
+        <translation>ивы</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="600"/>
@@ -11260,7 +11260,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="667"/>
         <source>modmove</source>
         <comment>modify - move (copy)</comment>
-        <translation type="unfinished"></translation>
+        <translation>ипк</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="668"/>
@@ -11272,7 +11272,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="673"/>
         <source>modrotate</source>
         <comment>modify - rotate</comment>
-        <translation type="unfinished"></translation>
+        <translation>ивр</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="674"/>
@@ -11284,7 +11284,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="679"/>
         <source>modscale</source>
         <comment>modify - scale</comment>
-        <translation type="unfinished"></translation>
+        <translation>има</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="680"/>
@@ -11296,7 +11296,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="685"/>
         <source>modmirror</source>
         <comment>modify -  mirror</comment>
-        <translation type="unfinished"></translation>
+        <translation>изе</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="686"/>
@@ -11308,7 +11308,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="691"/>
         <source>modmovrot</source>
         <comment>modify - move rotate</comment>
-        <translation type="unfinished"></translation>
+        <translation>ипв</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="692"/>
@@ -11332,7 +11332,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="703"/>
         <source>modrevert</source>
         <comment>modify -  revert direction</comment>
-        <translation type="unfinished"></translation>
+        <translation>ипн</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="704"/>
@@ -11626,25 +11626,25 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="828"/>
         <source>mtext</source>
         <comment>draw mtext</comment>
-        <translation>мтекст</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="829"/>
         <source>mt</source>
         <comment>draw mtext</comment>
-        <translation>mt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="830"/>
         <source>mtxt</source>
         <comment>draw mtext</comment>
-        <translation>мтек</translation>
+        <translation>мтекст</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="835"/>
         <source>text</source>
         <comment>draw text</comment>
-        <translation type="unfinished"></translation>
+        <translation>текст</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="836"/>
@@ -11674,7 +11674,7 @@ This action can NOT be undone.</source>
         <location filename="../src/cmd/rs_commands.cpp" line="848"/>
         <source>point</source>
         <comment>draw point</comment>
-        <translation type="unfinished"></translation>
+        <translation>т</translation>
     </message>
     <message>
         <location filename="../src/cmd/rs_commands.cpp" line="849"/>
