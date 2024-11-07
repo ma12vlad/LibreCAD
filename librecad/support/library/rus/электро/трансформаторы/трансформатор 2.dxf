@@ -311,7 +311,7 @@ $DIMUPT
   9
 $DIMDEC
  70
-    2
+    4
   9
 $DIMTDEC
  70
@@ -371,7 +371,7 @@ $DIMLWD
   9
 $DIMLWE
  70
-   35
+    0
   9
 $DIMTMOVE
  70
@@ -419,7 +419,7 @@ $LUNITS
   9
 $LUPREC
  70
-    2
+    4
   9
 $SKETCHINC
  40
@@ -495,7 +495,7 @@ $PDMODE
   9
 $PDSIZE
  40
--1
+-2
   9
 $PLINEWID
  40
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-6.375
+0.8079806250000002
  22
-1.5
+-0.1615961250000001
  13
 0
  23
@@ -1149,9 +1149,9 @@ AcDbViewportTableRecord
  37
 0
  40
-15.5
+23.91622650000001
  41
-1.629032258064516
+1.635135135135135
  42
 50
  43
@@ -2471,7 +2471,7 @@ Standard
 179
     2
 271
-    2
+    4
 272
     4
 273
@@ -2569,7 +2569,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-t1
+t12
  70
     0
 280
@@ -2673,7 +2673,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-t1
+t12
  70
     0
  10
@@ -2681,11 +2681,11 @@ t1
  20
 0
   3
-t1
+t12
   1
 
   0
-LINE
+POINT
   5
 50
 100
@@ -2699,17 +2699,13 @@ CONTINUOUS
 370
    70
 100
-AcDbLine
+AcDbPoint
  10
-7.5
+4
  20
--20
- 11
-7.5
- 21
-0
+8
   0
-POINT
+ARC
   5
 51
 100
@@ -2721,15 +2717,23 @@ CONTINUOUS
  62
     7
 370
-   70
+   35
 100
-AcDbPoint
+AcDbCircle
  10
-0
+4
  20
-0
+2
+ 40
+2
+100
+AcDbArc
+ 50
+270
+ 51
+90
   0
-POINT
+ARC
   5
 52
 100
@@ -2741,15 +2745,23 @@ CONTINUOUS
  62
     7
 370
-   70
+   35
 100
-AcDbPoint
+AcDbCircle
  10
-0
+4
  20
--20
+6
+ 40
+2
+100
+AcDbArc
+ 50
+270
+ 51
+90
   0
-POINT
+ARC
   5
 53
 100
@@ -2761,15 +2773,23 @@ CONTINUOUS
  62
     7
 370
-   70
+   35
 100
-AcDbPoint
+AcDbCircle
  10
-15
+4
  20
-0
+10
+ 40
+2
+100
+AcDbArc
+ 50
+270
+ 51
+90
   0
-POINT
+LINE
   5
 54
 100
@@ -2781,15 +2801,19 @@ CONTINUOUS
  62
     7
 370
-   70
+   35
 100
-AcDbPoint
+AcDbLine
  10
-15
+4
  20
--20
+12
+ 11
+0
+ 21
+12
   0
-ARC
+LINE
   5
 55
 100
@@ -2801,23 +2825,19 @@ CONTINUOUS
  62
     7
 370
-   25
+   35
 100
-AcDbCircle
+AcDbLine
  10
-11
+4
  20
--6
- 40
-2
-100
-AcDbArc
- 50
-90
- 51
-270
+0
+ 11
+0
+ 21
+0
   0
-ARC
+LINE
   5
 56
 100
@@ -2829,23 +2849,19 @@ CONTINUOUS
  62
     7
 370
-   25
+   35
 100
-AcDbCircle
+AcDbLine
  10
-11
+7.5
  20
--10
- 40
-2
-100
-AcDbArc
- 50
-90
- 51
-270
+3.25
+ 11
+7.5
+ 21
+0.75
   0
-ARC
+LINE
   5
 57
 100
@@ -2857,21 +2873,17 @@ CONTINUOUS
  62
     7
 370
-   25
+   35
 100
-AcDbCircle
+AcDbLine
  10
-11
+7.5
  20
--2
- 40
-2
-100
-AcDbArc
- 50
-90
- 51
-270
+-0.75
+ 11
+7.5
+ 21
+-3.25
   0
 LINE
   5
@@ -2885,19 +2897,19 @@ CONTINUOUS
  62
     7
 370
-   25
+   35
 100
 AcDbLine
  10
-15
+7.5
  20
-0
+7.25
  11
-11
+7.5
  21
-0
+4.75
   0
-ARC
+LINE
   5
 59
 100
@@ -2909,23 +2921,19 @@ CONTINUOUS
  62
     7
 370
-   25
+   35
 100
-AcDbCircle
+AcDbLine
  10
-11
+7.5
  20
--14
- 40
-2
-100
-AcDbArc
- 50
-90
- 51
-270
+11.25
+ 11
+7.5
+ 21
+8.75
   0
-ARC
+LINE
   5
 5A
 100
@@ -2937,23 +2945,19 @@ CONTINUOUS
  62
     7
 370
-   25
+   35
 100
-AcDbCircle
+AcDbLine
  10
-11
+7.5
  20
--18
- 40
-2
-100
-AcDbArc
- 50
-90
- 51
-270
+15.25
+ 11
+7.5
+ 21
+12.75
   0
-LINE
+ARC
   5
 5B
 100
@@ -2965,17 +2969,21 @@ CONTINUOUS
  62
     7
 370
-   25
+   35
 100
-AcDbLine
+AcDbCircle
  10
 11
  20
--20
- 11
-15
- 21
--20
+14
+ 40
+2
+100
+AcDbArc
+ 50
+90
+ 51
+270
   0
 LINE
   5
@@ -2989,17 +2997,17 @@ CONTINUOUS
  62
     7
 370
-   25
+   35
 100
 AcDbLine
  10
-4
+15
  20
-0
+16
  11
-0
+11
  21
-0
+16
   0
 ARC
   5
@@ -3013,21 +3021,21 @@ CONTINUOUS
  62
     7
 370
-   25
+   35
 100
 AcDbCircle
  10
-4
+11
  20
--2
+10
  40
 2
 100
 AcDbArc
  50
-270
- 51
 90
+ 51
+270
   0
 ARC
   5
@@ -3041,21 +3049,21 @@ CONTINUOUS
  62
     7
 370
-   25
+   35
 100
 AcDbCircle
  10
-4
+11
  20
--6
+6
  40
 2
 100
 AcDbArc
  50
-270
- 51
 90
+ 51
+270
   0
 ARC
   5
@@ -3069,21 +3077,21 @@ CONTINUOUS
  62
     7
 370
-   25
+   35
 100
 AcDbCircle
  10
-4
+11
  20
--10
+2
  40
 2
 100
 AcDbArc
  50
-270
- 51
 90
+ 51
+270
   0
 ARC
   5
@@ -3097,23 +3105,23 @@ CONTINUOUS
  62
     7
 370
-   25
+   35
 100
 AcDbCircle
  10
-4
+11
  20
--14
+-2
  40
 2
 100
 AcDbArc
  50
-270
- 51
 90
+ 51
+270
   0
-ARC
+LINE
   5
 61
 100
@@ -3125,45 +3133,17 @@ CONTINUOUS
  62
     7
 370
-   25
-100
-AcDbCircle
- 10
-4
- 20
--18
- 40
-2
-100
-AcDbArc
- 50
-270
- 51
-90
-  0
-LINE
-  5
-62
-100
-AcDbEntity
-  8
-0
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
+   35
 100
 AcDbLine
  10
-4
+11
  20
--20
+-4
  11
-0
+15
  21
--20
+-4
   0
 ENDBLK
   5
@@ -3185,7 +3165,7 @@ ENTITIES
   0
 INSERT
   5
-63
+62
 100
 AcDbEntity
   8
@@ -3199,11 +3179,11 @@ ByLayer
 100
 AcDbBlockReference
   2
-t1
+t12
  10
-86.75
+-5.817460500000002
  20
-103.75
+-8.079806250000003
  30
 0
  41
@@ -3255,7 +3235,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-64
+63
 100
 AcDbPlotSettings
   6
