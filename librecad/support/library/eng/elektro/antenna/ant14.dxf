@@ -1263,15 +1263,15 @@ AcDbLine
   6
 CONTINUOUS
  10
-0.0
+6.5
  20
-0.0
+30.0000000000000284
  30
 0.0
  11
-0.0
+6.5
  21
-5.0
+25.0000000000000284
  31
 0.0
   0
@@ -1291,15 +1291,15 @@ AcDbLine
   6
 CONTINUOUS
  10
-0.0
+6.5
  20
-5.0
+25.0000000000000284
  30
 0.0
  11
-4.0
+14.0
  21
-5.0
+11.0
  31
 0.0
   0
@@ -1319,13 +1319,13 @@ AcDbLine
   6
 CONTINUOUS
  10
-4.0
+14.0
  20
-5.0
+11.0
  30
 0.0
  11
-4.0
+8.0
  21
 0.0
  31
@@ -1347,15 +1347,15 @@ AcDbLine
   6
 CONTINUOUS
  10
-0.0
+8.0
  20
-12.5
+0.0
  30
 0.0
  11
-2.0
+0.0
  21
-9.5
+0.0
  31
 0.0
   0
@@ -1375,15 +1375,15 @@ AcDbLine
   6
 CONTINUOUS
  10
-2.0
+0.0
  20
-9.5
+0.0
  30
 0.0
  11
-4.0
+-6.0
  21
-12.5
+11.0
  31
 0.0
   0
@@ -1403,21 +1403,49 @@ AcDbLine
   6
 CONTINUOUS
  10
-2.0
+-6.0
  20
-12.5
+11.0
  30
 0.0
  11
-2.0
+1.5
  21
-5.0
+25.0000000000000284
+ 31
+0.0
+  0
+LINE
+  5
+49
+100
+AcDbEntity
+100
+AcDbLine
+  8
+0
+ 62
+7
+370
+70
+  6
+CONTINUOUS
+ 10
+1.5
+ 20
+25.0000000000000284
+ 30
+0.0
+ 11
+1.5
+ 21
+30.0000000000000284
  31
 0.0
   0
 POINT
   5
-49
+4A
 100
 AcDbEntity
 100
@@ -1431,9 +1459,31 @@ AcDbPoint
   6
 CONTINUOUS
  10
-2.0
+6.5
  20
-5.0
+30.0000000000000284
+ 30
+0.0
+  0
+POINT
+  5
+4B
+100
+AcDbEntity
+100
+AcDbPoint
+  8
+0
+ 62
+7
+370
+70
+  6
+CONTINUOUS
+ 10
+1.5
+ 20
+30.0000000000000284
  30
 0.0
   0
@@ -1475,7 +1525,7 @@ E
   3
 AcDbVariableDictionary
 350
-4A
+4C
   0
 DICTIONARY
   5
@@ -1939,7 +1989,7 @@ Layout2
   0
 DICTIONARY
   5
-4A
+4C
 100
 AcDbDictionary
 281
@@ -1947,15 +1997,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-4C
+4E
   3
 HIDETEXT
 350
-4B
+4D
   0
 DICTIONARYVAR
   5
-4B
+4D
 100
 DictionaryVariables
 280
@@ -1965,7 +2015,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-4C
+4E
 100
 DictionaryVariables
 280
