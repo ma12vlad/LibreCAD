@@ -8057,7 +8057,7 @@ Please choose the unit you want to use for new drawings and your preferred langu
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsgeneral.ui" line="1101"/>
         <source>restores program geometry/layout to original state</source>
-        <translation>Восстановить геометрию и расположение программы в состояние по умолчанию</translation>
+        <translation>Восстановить расположение виджетов и окон программы по умолчанию</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsgeneral.ui" line="1104"/>
