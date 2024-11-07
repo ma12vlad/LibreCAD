@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
-10000000000
+-8e-16
  20
-10000000000
+-6.5
  30
 0
   9
 $EXTMAX
  10
--10000000000
+9.5
  20
--10000000000
+2.5
  30
 0
   9
@@ -111,7 +111,7 @@ $DISPSILH
   9
 $DIMSCALE
  40
-1
+2.5
   9
 $DIMASZ
  40
@@ -187,7 +187,7 @@ $DIMTAD
   9
 $DIMZIN
  70
-    1
+    8
   9
 $DIMBLK
   1
@@ -255,7 +255,7 @@ $DIMBLK2
   9
 $DIMSTYLE
   2
-STANDARD
+Standard
   9
 $DIMCLRD
  70
@@ -311,7 +311,7 @@ $DIMUPT
   9
 $DIMDEC
  70
-    4
+    2
   9
 $DIMTDEC
  70
@@ -327,7 +327,7 @@ $DIMALTTD
   9
 $DIMTXSTY
   7
-standard
+STANDARD
   9
 $DIMAUNIT
  70
@@ -335,7 +335,7 @@ $DIMAUNIT
   9
 $DIMADEC
  70
-    2
+    0
   9
 $DIMALTRND
  40
@@ -347,7 +347,7 @@ $DIMAZIN
   9
 $DIMDSEP
  70
-    0
+   44
   9
 $DIMATFIT
  70
@@ -367,11 +367,11 @@ $DIMLUNIT
   9
 $DIMLWD
  70
-    0
+   -2
   9
 $DIMLWE
  70
-    0
+   -2
   9
 $DIMTMOVE
  70
@@ -491,7 +491,7 @@ $ANGDIR
   9
 $PDMODE
  70
-    0
+   96
   9
 $PDSIZE
  40
@@ -809,12 +809,6 @@ $SNAPSTYLE
  70
     0
   9
-$GRIDUNIT
- 10
-0
- 20
-0
-  9
 $PLIMMIN
  10
 0
@@ -885,7 +879,7 @@ $LWDISPLAY
   9
 $INSUNITS
  70
-    0
+    4
   9
 $HYPERLINKBASE
   1
@@ -1121,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
--33.07226294250001
+42.95867763685803
  22
--19.47588817725001
+12.71993146717196
  13
 0
  23
@@ -1149,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-22.78311447150001
+61.28694252364672
  41
-1.629032258064516
+1.760377358490566
  42
 50
  43
@@ -2247,29 +2241,7 @@ AcDbLayerTableRecord
   6
 CONTINUOUS
 370
-   25
-390
-F
-  0
-LAYER
-  5
-4A
-330
-2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-????????? ???? ?????????? ESK
- 70
     0
- 62
-    7
-  6
-ByLayer
-370
-   -3
 390
 F
   0
@@ -2289,7 +2261,7 @@ AcDbSymbolTable
   0
 STYLE
   5
-4B
+4A
 330
 2
 100
@@ -2373,7 +2345,7 @@ ACAD
   0
 APPID
   5
-4C
+4B
 330
 9
 100
@@ -2405,7 +2377,7 @@ AcDbDimStyleTable
   0
 DIMSTYLE
 105
-4D
+4C
 330
 A
 100
@@ -2441,7 +2413,7 @@ Standard
 141
 0.09
 142
-0
+2.5
 143
 25.4
 144
@@ -2491,9 +2463,9 @@ Standard
 178
     0
 179
-    2
+    0
 271
-    4
+    2
 272
     4
 273
@@ -2529,7 +2501,7 @@ Standard
 289
     3
 340
-4B
+4A
   0
 ENDTAB
   0
@@ -2574,24 +2546,6 @@ AcDbSymbolTableRecord
 AcDbBlockTableRecord
   2
 *Paper_Space
- 70
-    0
-280
-    1
-281
-    0
-  0
-BLOCK_RECORD
-  5
-4E
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-speak1
  70
     0
 280
@@ -2683,303 +2637,111 @@ AcDbEntity
 100
 AcDbBlockEnd
   0
-BLOCK
-  5
-4F
-330
-4E
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-speak1
- 70
-    0
- 10
-0
- 20
-0
-  3
-speak1
-  1
-
-  0
-LINE
-  5
-51
-100
-AcDbEntity
-  8
-????????? ???? ?????????? ESK
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
-100
-AcDbLine
- 10
-2.919812026729439
- 20
-2.736535921156789
- 11
-2.919812026729439
- 21
--3.263464078843211
-  0
-LINE
-  5
-52
-100
-AcDbEntity
-  8
-????????? ???? ?????????? ESK
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
-100
-AcDbLine
- 10
-7.419812026729439
- 20
-6.736535921156786
- 11
-7.419812026729439
- 21
--7.263464078843212
-  0
-LINE
-  5
-53
-100
-AcDbEntity
-  8
-????????? ???? ?????????? ESK
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
-100
-AcDbLine
- 10
-7.419812026729439
- 20
--7.263464078843212
- 11
-2.919812026729439
- 21
--3.263464078843211
-  0
-LINE
-  5
-54
-100
-AcDbEntity
-  8
-????????? ???? ?????????? ESK
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
-100
-AcDbLine
- 10
-2.919812026729439
- 20
-2.736535921156789
- 11
-7.419812026729439
- 21
-6.736535921156786
-  0
-LINE
-  5
-55
-100
-AcDbEntity
-  8
-????????? ???? ?????????? ESK
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
-100
-AcDbLine
- 10
--2.080187973270561
- 20
-2.736535921156789
- 11
-2.919812026729439
- 21
-2.736535921156789
-  0
-LINE
-  5
-56
-100
-AcDbEntity
-  8
-????????? ???? ?????????? ESK
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
-100
-AcDbLine
- 10
-0.4198120267294394
- 20
-2.736535921156789
- 11
-0.4198120267294403
- 21
-7.736535921156788
-  0
-LINE
-  5
-57
-100
-AcDbEntity
-  8
-????????? ???? ?????????? ESK
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
-100
-AcDbLine
- 10
-0.4198120267294385
- 20
--3.263464078843211
- 11
-0.4198120267294376
- 21
--7.26346407884321
-  0
-LINE
-  5
-58
-100
-AcDbEntity
-  8
-????????? ???? ?????????? ESK
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
-100
-AcDbLine
- 10
-2.919812026729439
- 20
--3.263464078843211
- 11
--2.080187973270562
- 21
--3.263464078843211
-  0
-LINE
-  5
-59
-100
-AcDbEntity
-  8
-????????? ???? ?????????? ESK
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
-100
-AcDbLine
- 10
--2.080187973270562
- 20
--3.263464078843211
- 11
--2.080187973270561
- 21
-2.736535921156789
-  0
-ENDBLK
-  5
-50
-330
-4E
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
 ENDSEC
   0
 SECTION
   2
 ENTITIES
   0
-INSERT
+ARC
   5
-5A
+4D
 100
 AcDbEntity
   8
 0
   6
-ByLayer
+CONTINUOUS
  62
-  256
+    7
 370
-   -1
+   25
 100
-AcDbBlockReference
-  2
-speak1
+AcDbCircle
  10
--7.716861353250002
+5
  20
--2.204817529500001
- 30
-0
- 41
-1
- 42
-1
- 43
-0
+-2
+ 40
+4.5
+100
+AcDbArc
  50
+270
+ 51
+90
+  0
+LINE
+  5
+4E
+100
+AcDbEntity
+  8
 0
- 70
-    1
- 71
-    1
- 44
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+5
+ 20
 0
- 45
+ 11
 0
+ 21
+0
+  0
+LINE
+  5
+4F
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+5
+ 20
+-6.5
+ 11
+5
+ 21
+2.5
+  0
+LINE
+  5
+50
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+-8e-16
+ 20
+-4
+ 11
+5
+ 21
+-4
   0
 ENDSEC
   0
@@ -3013,7 +2775,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-5B
+51
 100
 AcDbPlotSettings
   6
