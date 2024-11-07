@@ -2567,6 +2567,42 @@ gnd1
 281
     0
   0
+BLOCK_RECORD
+  5
+50
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+gr2
+ 70
+    0
+280
+    1
+281
+    0
+  0
+BLOCK_RECORD
+  5
+53
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+gnd6
+ 70
+    0
+280
+    1
+281
+    0
+  0
 ENDTAB
   0
 ENDSEC
@@ -2675,59 +2711,303 @@ gnd1
   1
 
   0
-LINE
+INSERT
   5
-50
+56
 100
 AcDbEntity
   8
 0
   6
-CONTINUOUS
+ByLayer
  62
-    7
+  256
 370
-   25
+   -1
 100
-AcDbLine
+AcDbBlockReference
+  2
+gr2
  10
-0
+-0.01250936891737276
  20
--5
- 11
+0.03752810675211827
+ 30
 0
- 21
+ 41
+1
+ 42
+1
+ 43
 0
-  0
-LINE
-  5
-51
-100
-AcDbEntity
-  8
+ 50
 0
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
-100
-AcDbLine
- 10
--2
- 20
--5
- 11
-2
- 21
--5
+ 70
+    1
+ 71
+    1
+ 44
+0
+ 45
+0
   0
 ENDBLK
   5
 4F
 330
 4D
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+51
+330
+50
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+gr2
+ 70
+    0
+ 10
+0
+ 20
+0
+  3
+gr2
+  1
+
+  0
+INSERT
+  5
+57
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+gnd6
+ 10
+1.390076143949097
+ 20
+4.203325482893698
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+0
+ 45
+0
+  0
+ENDBLK
+  5
+52
+330
+50
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+54
+330
+53
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+gnd6
+ 70
+    0
+ 10
+0
+ 20
+0
+  3
+gnd6
+  1
+
+  0
+POINT
+  5
+58
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   70
+100
+AcDbPoint
+ 10
+0
+ 20
+0
+  0
+LINE
+  5
+59
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+0
+ 20
+0
+ 11
+-2.5
+ 21
+-5
+  0
+LINE
+  5
+5A
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+-2.5
+ 20
+-5
+ 11
+1.5
+ 21
+-3
+  0
+LINE
+  5
+5B
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+1.5
+ 20
+-3
+ 11
+-3
+ 21
+-10
+  0
+LINE
+  5
+5C
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+-3
+ 20
+-10
+ 11
+-0.6
+ 21
+-7.9
+  0
+LINE
+  5
+5D
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+-3
+ 20
+-10
+ 11
+-2.2
+ 21
+-7
+  0
+ENDBLK
+  5
+55
+330
+53
 100
 AcDbEntity
   8
@@ -2743,7 +3023,7 @@ ENTITIES
   0
 INSERT
   5
-52
+5E
 100
 AcDbEntity
   8
@@ -2813,7 +3093,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-53
+5F
 100
 AcDbPlotSettings
   6
