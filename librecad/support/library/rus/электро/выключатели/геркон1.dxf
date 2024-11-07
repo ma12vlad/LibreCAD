@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--16.66012517950018
+10000000000
  20
--4.254906115377594
+10000000000
  30
 0
   9
 $EXTMAX
  10
-13.33987482049982
+-10000000000
  20
-0.4950938846224062
+-10000000000
  30
 0
   9
@@ -111,7 +111,7 @@ $DISPSILH
   9
 $DIMSCALE
  40
-2.5
+1
   9
 $DIMASZ
  40
@@ -187,7 +187,7 @@ $DIMTAD
   9
 $DIMZIN
  70
-    8
+    1
   9
 $DIMBLK
   1
@@ -311,7 +311,7 @@ $DIMUPT
   9
 $DIMDEC
  70
-    2
+    4
   9
 $DIMTDEC
  70
@@ -327,7 +327,7 @@ $DIMALTTD
   9
 $DIMTXSTY
   7
-STANDARD
+standard
   9
 $DIMAUNIT
  70
@@ -335,7 +335,7 @@ $DIMAUNIT
   9
 $DIMADEC
  70
-    0
+    2
   9
 $DIMALTRND
  40
@@ -347,7 +347,7 @@ $DIMAZIN
   9
 $DIMDSEP
  70
-   44
+    0
   9
 $DIMATFIT
  70
@@ -367,11 +367,11 @@ $DIMLUNIT
   9
 $DIMLWD
  70
-   -2
+    0
   9
 $DIMLWE
  70
-   -2
+    0
   9
 $DIMTMOVE
  70
@@ -491,7 +491,7 @@ $ANGDIR
   9
 $PDMODE
  70
-   96
+    0
   9
 $PDSIZE
  40
@@ -809,6 +809,12 @@ $SNAPSTYLE
  70
     0
   9
+$GRIDUNIT
+ 10
+0
+ 20
+0
+  9
 $PLIMMIN
  10
 0
@@ -1115,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-114.7354405670603
+49.41897193711871
  22
-86.25501205750633
+32.24125441886888
  13
 0
  23
@@ -1143,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-359.1246413966616
+87.47422305447215
  41
 1.347432024169184
  42
@@ -2245,28 +2251,6 @@ CONTINUOUS
 390
 F
   0
-LAYER
-  5
-4A
-330
-2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Contour
- 70
-    0
- 62
-    7
-  6
-CONTINUOUS
-370
-   -3
-390
-F
-  0
 ENDTAB
   0
 TABLE
@@ -2283,7 +2267,7 @@ AcDbSymbolTable
   0
 STYLE
   5
-4B
+4A
 330
 2
 100
@@ -2367,7 +2351,7 @@ ACAD
   0
 APPID
   5
-4C
+4B
 330
 9
 100
@@ -2399,7 +2383,7 @@ AcDbDimStyleTable
   0
 DIMSTYLE
 105
-4D
+4C
 330
 A
 100
@@ -2411,7 +2395,7 @@ Standard
  70
     0
  40
-2.5
+1
  41
 2.5
  42
@@ -2463,7 +2447,7 @@ Standard
  77
     0
  78
-    8
+    1
  79
     0
 170
@@ -2485,9 +2469,9 @@ Standard
 178
     0
 179
-    0
-271
     2
+271
+    4
 272
     4
 273
@@ -2501,7 +2485,7 @@ Standard
 277
     2
 278
-   44
+    0
 279
     0
 280
@@ -2523,13 +2507,13 @@ Standard
 289
     3
 340
-STANDARD
+standard
 341
 
 371
-   -2
+    0
 372
-   -2
+    0
   0
 ENDTAB
   0
@@ -2583,7 +2567,7 @@ AcDbBlockTableRecord
   0
 BLOCK_RECORD
   5
-4E
+4D
 330
 1
 100
@@ -2591,7 +2575,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-Switch
+s22
  70
     0
 280
@@ -2685,9 +2669,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-4F
-330
 4E
+330
+4D
 100
 AcDbEntity
   8
@@ -2695,7 +2679,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-Switch
+s22
  70
     0
  10
@@ -2703,45 +2687,133 @@ Switch
  20
 0
   3
-Switch
+s22
   1
 
   0
-LINE
+POINT
+  5
+50
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   70
+100
+AcDbPoint
+ 10
+0
+ 20
+0
+  0
+POINT
   5
 51
 100
 AcDbEntity
   8
-Contour
+0
   6
 CONTINUOUS
  62
-  256
+    7
 370
-   25
+   70
 100
-AcDbLine
+AcDbPoint
  10
-0
+15
  20
 0
- 11
-9
- 21
-0
   0
-CIRCLE
+LINE
   5
 52
 100
 AcDbEntity
   8
-Contour
+0
   6
-ByLayer
+CONTINUOUS
  62
-  256
+    7
+370
+   25
+100
+AcDbLine
+ 10
+4.5
+ 20
+0
+ 11
+10.5
+ 21
+3.46
+  0
+LINE
+  5
+53
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+4.5
+ 20
+0
+ 11
+0
+ 21
+0
+  0
+LINE
+  5
+54
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+15
+ 20
+0
+ 11
+10.5
+ 21
+0
+  0
+ARC
+  5
+55
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
 370
    25
 100
@@ -2751,83 +2823,95 @@ AcDbCircle
  20
 0
  40
-1
+5
+100
+AcDbArc
+ 50
+270
+ 51
+90
   0
 LINE
   5
-53
+56
 100
 AcDbEntity
   8
-Contour
+0
   6
 CONTINUOUS
  62
-  256
+    7
 370
    25
 100
 AcDbLine
  10
-11
+5
  20
-0
+5
  11
-19.375
+10
  21
-3.75
+5
   0
-CIRCLE
+LINE
   5
-54
+57
 100
 AcDbEntity
   8
-Contour
+0
   6
-ByLayer
+CONTINUOUS
  62
-  256
+    7
+370
+   25
+100
+AcDbLine
+ 10
+5
+ 20
+-5
+ 11
+10
+ 21
+-5
+  0
+ARC
+  5
+58
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
 370
    25
 100
 AcDbCircle
  10
-20
+5
  20
 0
  40
-1
-  0
-LINE
-  5
-55
+5
 100
-AcDbEntity
-  8
-Contour
-  6
-CONTINUOUS
- 62
-  256
-370
-   25
-100
-AcDbLine
- 10
-30
- 20
-0
- 11
-21
- 21
-0
+AcDbArc
+ 50
+90
+ 51
+270
   0
 ENDBLK
   5
-50
+4F
 330
-4E
+4D
 100
 AcDbEntity
   8
@@ -2843,7 +2927,7 @@ ENTITIES
   0
 INSERT
   5
-56
+59
 100
 AcDbEntity
   8
@@ -2857,11 +2941,11 @@ ByLayer
 100
 AcDbBlockReference
   2
-Switch
+s22
  10
--16.66012517950018
+-7.390500000000001
  20
--3.254906115377594
+-0.2842500000000001
  30
 0
  41
@@ -2913,7 +2997,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-57
+5A
 100
 AcDbPlotSettings
   6
