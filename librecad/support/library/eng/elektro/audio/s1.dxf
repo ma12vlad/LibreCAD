@@ -1247,120 +1247,6 @@ SECTION
   2
 ENTITIES
   0
-LINE
-  5
-43
-100
-AcDbEntity
-100
-AcDbLine
-  8
-0
- 62
-7
-370
-70
-  6
-CONTINUOUS
- 10
--0.0000000000000008
- 20
--4.0
- 30
-0.0
- 11
-4.9999999999999991
- 21
--4.0
- 31
-0.0
-  0
-LINE
-  5
-44
-100
-AcDbEntity
-100
-AcDbLine
-  8
-0
- 62
-7
-370
-70
-  6
-CONTINUOUS
- 10
-4.9999999999999991
- 20
--6.5
- 30
-0.0
- 11
-5.0
- 21
-2.5
- 31
-0.0
-  0
-ARC
-  5
-45
-100
-AcDbEntity
-  8
-0
- 62
-7
-370
-70
-  6
-CONTINUOUS
-100
-AcDbCircle
- 10
-5.0
- 20
--2.0
- 30
-0.0
- 40
-4.5
-100
-AcDbArc
- 50
-270.0
- 51
-90.0
-  0
-LINE
-  5
-46
-100
-AcDbEntity
-100
-AcDbLine
-  8
-0
- 62
-7
-370
-70
-  6
-CONTINUOUS
- 10
-5.0
- 20
-0.0
- 30
-0.0
- 11
-0.0
- 21
-0.0
- 31
-0.0
-  0
 ENDSEC
   0
 SECTION
@@ -1399,7 +1285,7 @@ E
   3
 AcDbVariableDictionary
 350
-47
+43
   0
 DICTIONARY
   5
@@ -1863,7 +1749,7 @@ Layout2
   0
 DICTIONARY
   5
-47
+43
 100
 AcDbDictionary
 281
@@ -1871,15 +1757,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-49
+45
   3
 HIDETEXT
 350
-48
+44
   0
 DICTIONARYVAR
   5
-48
+44
 100
 DictionaryVariables
 280
@@ -1889,7 +1775,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-49
+45
 100
 DictionaryVariables
 280

@@ -899,7 +899,7 @@ LAYER
 100
 AcDbSymbolTable
  70
-1
+2
   0
 LAYER
   5
@@ -920,6 +920,26 @@ CONTINUOUS
 1
 370
 0
+390
+F
+  0
+LAYER
+  5
+43
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+????????? ???? ?????????? ESK
+ 70
+0
+ 62
+7
+  6
+ByLayer
+290
+1
 390
 F
   0
@@ -1249,41 +1269,13 @@ ENTITIES
   0
 LINE
   5
-43
-100
-AcDbEntity
-100
-AcDbLine
-  8
-0
- 62
-7
-370
-70
-  6
-CONTINUOUS
- 10
--0.0000000000000008
- 20
--4.0
- 30
-0.0
- 11
-4.9999999999999991
- 21
--4.0
- 31
-0.0
-  0
-LINE
-  5
 44
 100
 AcDbEntity
 100
 AcDbLine
   8
-0
+????????? ???? ?????????? ESK
  62
 7
 370
@@ -1291,47 +1283,45 @@ AcDbLine
   6
 CONTINUOUS
  10
-4.9999999999999991
+3.4999999999999996
  20
--6.5
+3.0
+ 30
+0.0
+ 11
+12.5
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+45
+100
+AcDbEntity
+100
+AcDbLine
+  8
+????????? ???? ?????????? ESK
+ 62
+7
+370
+70
+  6
+CONTINUOUS
+ 10
+12.5
+ 20
+3.0
  30
 0.0
  11
 5.0
  21
-2.5
+3.0
  31
 0.0
-  0
-ARC
-  5
-45
-100
-AcDbEntity
-  8
-0
- 62
-7
-370
-70
-  6
-CONTINUOUS
-100
-AcDbCircle
- 10
-5.0
- 20
--2.0
- 30
-0.0
- 40
-4.5
-100
-AcDbArc
- 50
-270.0
- 51
-90.0
   0
 LINE
   5
@@ -1341,7 +1331,119 @@ AcDbEntity
 100
 AcDbLine
   8
-0
+????????? ???? ?????????? ESK
+ 62
+7
+370
+70
+  6
+CONTINUOUS
+ 10
+5.0
+ 20
+3.0
+ 30
+0.0
+ 11
+5.0
+ 21
+-3.0
+ 31
+0.0
+  0
+LINE
+  5
+47
+100
+AcDbEntity
+100
+AcDbLine
+  8
+????????? ???? ?????????? ESK
+ 62
+7
+370
+70
+  6
+CONTINUOUS
+ 10
+5.0
+ 20
+-3.0
+ 30
+0.0
+ 11
+11.0000000000000018
+ 21
+-3.0000000000000036
+ 31
+0.0
+  0
+LINE
+  5
+48
+100
+AcDbEntity
+100
+AcDbLine
+  8
+????????? ???? ?????????? ESK
+ 62
+7
+370
+70
+  6
+CONTINUOUS
+ 10
+11.0000000000000018
+ 20
+-3.0000000000000036
+ 30
+0.0
+ 11
+11.0000000000000018
+ 21
+3.0
+ 31
+0.0
+  0
+LINE
+  5
+49
+100
+AcDbEntity
+100
+AcDbLine
+  8
+????????? ???? ?????????? ESK
+ 62
+7
+370
+70
+  6
+CONTINUOUS
+ 10
+11.0000000000000018
+ 20
+0.0
+ 30
+0.0
+ 11
+15.0000000000000018
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+4A
+100
+AcDbEntity
+100
+AcDbLine
+  8
+????????? ???? ?????????? ESK
  62
 7
 370
@@ -1399,7 +1501,7 @@ E
   3
 AcDbVariableDictionary
 350
-47
+4B
   0
 DICTIONARY
   5
@@ -1863,7 +1965,7 @@ Layout2
   0
 DICTIONARY
   5
-47
+4B
 100
 AcDbDictionary
 281
@@ -1871,15 +1973,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-49
+4D
   3
 HIDETEXT
 350
-48
+4C
   0
 DICTIONARYVAR
   5
-48
+4C
 100
 DictionaryVariables
 280
@@ -1889,7 +1991,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-49
+4D
 100
 DictionaryVariables
 280
