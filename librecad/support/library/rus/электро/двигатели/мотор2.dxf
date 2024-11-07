@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--11.30294047968654
+10000000000
  20
--4.662548415728338
+10000000000
  30
 0
   9
 $EXTMAX
  10
-8.697059520313459
+-10000000000
  20
-4.337451584271662
+-10000000000
  30
 0
   9
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-42.87024755592651
+6.375
  22
-7.871655624675771
+1.5
  13
 0
  23
@@ -1149,9 +1149,9 @@ AcDbViewportTableRecord
  37
 0
  40
-83.80285680424052
+15.5
  41
-1.236994219653179
+1.629032258064516
  42
 50
  43
@@ -2507,13 +2507,7 @@ Standard
 289
     3
 340
-standard
-341
-
-371
-    0
-372
-    0
+4A
   0
 ENDTAB
   0
@@ -2576,6 +2570,114 @@ AcDbSymbolTableRecord
 AcDbBlockTableRecord
   2
 m2
+ 70
+    0
+280
+    1
+281
+    0
+  0
+BLOCK_RECORD
+  5
+50
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+мотор 1
+ 70
+    0
+280
+    1
+281
+    0
+  0
+BLOCK_RECORD
+  5
+53
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+m2-0
+ 70
+    0
+280
+    1
+281
+    0
+  0
+BLOCK_RECORD
+  5
+56
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+мотор 1-0
+ 70
+    0
+280
+    1
+281
+    0
+  0
+BLOCK_RECORD
+  5
+59
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+m2-1
+ 70
+    0
+280
+    1
+281
+    0
+  0
+BLOCK_RECORD
+  5
+5C
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+мотор 1-1
+ 70
+    0
+280
+    1
+281
+    0
+  0
+BLOCK_RECORD
+  5
+5F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+m2-2
  70
     0
 280
@@ -2691,29 +2793,161 @@ m2
   1
 
   0
-POINT
+INSERT
   5
+62
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+мотор 1
+ 10
+95.18898297000061
+ 20
+-105.0975311676474
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+90
+ 70
+    1
+ 71
+    1
+ 44
+0
+ 45
+0
+  0
+ENDBLK
+  5
+4F
+330
+4D
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+51
+330
 50
 100
 AcDbEntity
   8
 0
-  6
-CONTINUOUS
- 62
-    7
-370
-   70
 100
-AcDbPoint
+AcDbBlockBegin
+  2
+мотор 1
+ 70
+    0
  10
 0
  20
 0
+  3
+мотор 1
+  1
+
+  0
+INSERT
+  5
+63
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+m2-0
+ 10
+0
+ 20
+0
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+0
+ 45
+0
+  0
+ENDBLK
+  5
+52
+330
+50
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+54
+330
+53
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+m2-0
+ 70
+    0
+ 10
+0
+ 20
+0
+  3
+m2-0
+  1
+
   0
 POINT
   5
-51
+64
 100
 AcDbEntity
   8
@@ -2727,13 +2961,33 @@ CONTINUOUS
 100
 AcDbPoint
  10
-20
+94.75
  20
+91.75
+  0
+POINT
+  5
+65
+100
+AcDbEntity
+  8
 0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   70
+100
+AcDbPoint
+ 10
+114.75
+ 20
+91.75
   0
 CIRCLE
   5
-52
+66
 100
 AcDbEntity
   8
@@ -2747,163 +3001,363 @@ CONTINUOUS
 100
 AcDbCircle
  10
-10
+104.75
  20
-0
+91.75
  40
 4.5
   0
 LINE
   5
+67
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+108.78
+ 20
+93.75
+ 11
+111.25
+ 21
+93.75
+  0
+LINE
+  5
+68
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+111.25
+ 20
+93.75
+ 11
+111.25
+ 21
+89.75
+  0
+LINE
+  5
+69
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+111.25
+ 20
+89.75
+ 11
+108.78
+ 21
+89.75
+  0
+LINE
+  5
+6A
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+114.75
+ 20
+91.75
+ 11
+111.25
+ 21
+91.75
+  0
+LINE
+  5
+6B
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+100.68
+ 20
+93.75
+ 11
+98.25
+ 21
+93.75
+  0
+LINE
+  5
+6C
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+98.25
+ 20
+93.75
+ 11
+98.25
+ 21
+89.75
+  0
+LINE
+  5
+6D
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+98.25
+ 20
+89.75
+ 11
+100.68
+ 21
+89.75
+  0
+LINE
+  5
+6E
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+98.25
+ 20
+91.75
+ 11
+94.75
+ 21
+91.75
+  0
+ENDBLK
+  5
+55
+330
 53
 100
 AcDbEntity
   8
 0
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
 100
-AcDbLine
- 10
-14.03
- 20
-2
- 11
-16.5
- 21
-2
+AcDbBlockEnd
   0
-LINE
+BLOCK
   5
-54
-100
-AcDbEntity
-  8
-0
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
-100
-AcDbLine
- 10
-16.5
- 20
-2
- 11
-16.5
- 21
--2
-  0
-LINE
-  5
-55
-100
-AcDbEntity
-  8
-0
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
-100
-AcDbLine
- 10
-16.5
- 20
--2
- 11
-14.03
- 21
--2
-  0
-LINE
-  5
+57
+330
 56
 100
 AcDbEntity
   8
 0
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
 100
-AcDbLine
+AcDbBlockBegin
+  2
+мотор 1-0
+ 70
+    0
  10
-20
+0
  20
 0
- 11
-16.5
- 21
-0
+  3
+мотор 1-0
+  1
+
   0
-LINE
+INSERT
   5
-57
+6F
 100
 AcDbEntity
   8
 0
   6
-CONTINUOUS
+ByLayer
  62
-    7
+  256
 370
-   25
+   -1
 100
-AcDbLine
+AcDbBlockReference
+  2
+m2-1
  10
-5.93
+0
  20
-2
- 11
-3.5
- 21
-2
+0
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+0
+ 45
+0
   0
-LINE
+ENDBLK
   5
 58
+330
+56
 100
 AcDbEntity
   8
 0
-  6
-CONTINUOUS
- 62
-    7
-370
-   25
 100
-AcDbLine
- 10
-3.5
- 20
-2
- 11
-3.5
- 21
--2
+AcDbBlockEnd
   0
-LINE
+BLOCK
   5
+5A
+330
 59
 100
 AcDbEntity
   8
 0
+100
+AcDbBlockBegin
+  2
+m2-1
+ 70
+    0
+ 10
+0
+ 20
+0
+  3
+m2-1
+  1
+
+  0
+POINT
+  5
+70
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   70
+100
+AcDbPoint
+ 10
+94.75
+ 20
+91.75
+  0
+POINT
+  5
+71
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   70
+100
+AcDbPoint
+ 10
+114.75
+ 20
+91.75
+  0
+CIRCLE
+  5
+72
+100
+AcDbEntity
+  8
+0
   6
 CONTINUOUS
  62
@@ -2911,19 +3365,17 @@ CONTINUOUS
 370
    25
 100
-AcDbLine
+AcDbCircle
  10
-3.5
+104.75
  20
--2
- 11
-5.93
- 21
--2
+91.75
+ 40
+4.5
   0
 LINE
   5
-5A
+73
 100
 AcDbEntity
   8
@@ -2937,19 +3389,553 @@ CONTINUOUS
 100
 AcDbLine
  10
-3.5
+108.78
+ 20
+93.75
+ 11
+111.25
+ 21
+93.75
+  0
+LINE
+  5
+74
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+111.25
+ 20
+93.75
+ 11
+111.25
+ 21
+89.75
+  0
+LINE
+  5
+75
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+111.25
+ 20
+89.75
+ 11
+108.78
+ 21
+89.75
+  0
+LINE
+  5
+76
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+114.75
+ 20
+91.75
+ 11
+111.25
+ 21
+91.75
+  0
+LINE
+  5
+77
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+100.68
+ 20
+93.75
+ 11
+98.25
+ 21
+93.75
+  0
+LINE
+  5
+78
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+98.25
+ 20
+93.75
+ 11
+98.25
+ 21
+89.75
+  0
+LINE
+  5
+79
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+98.25
+ 20
+89.75
+ 11
+100.68
+ 21
+89.75
+  0
+LINE
+  5
+7A
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+98.25
+ 20
+91.75
+ 11
+94.75
+ 21
+91.75
+  0
+ENDBLK
+  5
+5B
+330
+59
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+5D
+330
+5C
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+мотор 1-1
+ 70
+    0
+ 10
+0
  20
 0
- 11
+  3
+мотор 1-1
+  1
+
+  0
+INSERT
+  5
+7B
+100
+AcDbEntity
+  8
 0
- 21
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbBlockReference
+  2
+m2-2
+ 10
+0
+ 20
+0
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+0
+ 50
+0
+ 70
+    1
+ 71
+    1
+ 44
+0
+ 45
 0
   0
 ENDBLK
   5
-4F
+5E
 330
-4D
+5C
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+60
+330
+5F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+m2-2
+ 70
+    0
+ 10
+0
+ 20
+0
+  3
+m2-2
+  1
+
+  0
+POINT
+  5
+7C
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   70
+100
+AcDbPoint
+ 10
+94.75
+ 20
+91.75
+  0
+POINT
+  5
+7D
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   70
+100
+AcDbPoint
+ 10
+114.75
+ 20
+91.75
+  0
+CIRCLE
+  5
+7E
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbCircle
+ 10
+104.75
+ 20
+91.75
+ 40
+4.5
+  0
+LINE
+  5
+7F
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+108.78
+ 20
+93.75
+ 11
+111.25
+ 21
+93.75
+  0
+LINE
+  5
+80
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+111.25
+ 20
+93.75
+ 11
+111.25
+ 21
+89.75
+  0
+LINE
+  5
+81
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+111.25
+ 20
+89.75
+ 11
+108.78
+ 21
+89.75
+  0
+LINE
+  5
+82
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+114.75
+ 20
+91.75
+ 11
+111.25
+ 21
+91.75
+  0
+LINE
+  5
+83
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+100.68
+ 20
+93.75
+ 11
+98.25
+ 21
+93.75
+  0
+LINE
+  5
+84
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+98.25
+ 20
+93.75
+ 11
+98.25
+ 21
+89.75
+  0
+LINE
+  5
+85
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+98.25
+ 20
+89.75
+ 11
+100.68
+ 21
+89.75
+  0
+LINE
+  5
+86
+100
+AcDbEntity
+  8
+0
+  6
+CONTINUOUS
+ 62
+    7
+370
+   25
+100
+AcDbLine
+ 10
+98.25
+ 20
+91.75
+ 11
+94.75
+ 21
+91.75
+  0
+ENDBLK
+  5
+61
+330
+5F
 100
 AcDbEntity
   8
@@ -2965,7 +3951,7 @@ ENTITIES
   0
 INSERT
   5
-5B
+87
 100
 AcDbEntity
   8
@@ -2981,9 +3967,9 @@ AcDbBlockReference
   2
 m2
  10
--11.30294047968654
+94.75
  20
--0.1625484157283381
+91.75
  30
 0
  41
@@ -3035,7 +4021,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-5C
+88
 100
 AcDbPlotSettings
   6
