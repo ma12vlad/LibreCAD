@@ -2503,9 +2503,9 @@ void QC_ApplicationWindow::slotFilePrint(bool printPDF) {
         if (bStartPrinting
             && (!equalPaperSize(printerSizeMm, paperSizeMm) || !equalMargins(paperMargins))) {
             QMessageBox msgBox(this);
-            msgBox.setWindowTitle("Paper settings");
-            msgBox.setText("Paper size and/or margins have been changed!");
-            msgBox.setInformativeText("Do you want to apply changes to current drawing?");
+            msgBox.setWindowTitle(tr("Paper settings"));
+            msgBox.setText(tr("Paper size and/or margins have been changed!"));
+            msgBox.setInformativeText(tr("Do you want to apply changes to current drawing?"));
             msgBox.setStandardButtons(QMessageBox::Yes | QMessageBox::No | QMessageBox::Cancel);
             msgBox.setDefaultButton(QMessageBox::Cancel);
             QString detailedText = QString("Drawing settings:\n"
