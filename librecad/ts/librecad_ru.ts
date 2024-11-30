@@ -1671,53 +1671,43 @@ first base, second base, first target, second target.</source>
     <name>LC_CircleByArcOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_circlebyarcoptions.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_lc_circlebyarcoptions.h" line="99"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_circlebyarcoptions.ui" line="27"/>
         <location filename="../src/ui/forms/lc_circlebyarcoptions.ui" line="73"/>
-        <location filename="../../generated/librecad/ui/ui_lc_circlebyarcoptions.h" line="100"/>
-        <location filename="../../generated/librecad/ui/ui_lc_circlebyarcoptions.h" line="106"/>
         <source>Active</source>
         <translation>Активный</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_circlebyarcoptions.ui" line="32"/>
         <location filename="../src/ui/forms/lc_circlebyarcoptions.ui" line="78"/>
-        <location filename="../../generated/librecad/ui/ui_lc_circlebyarcoptions.h" line="101"/>
-        <location filename="../../generated/librecad/ui/ui_lc_circlebyarcoptions.h" line="107"/>
         <source>Original</source>
         <translation>Исходный</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_circlebyarcoptions.ui" line="37"/>
-        <location filename="../../generated/librecad/ui/ui_lc_circlebyarcoptions.h" line="102"/>
         <source>Original Resolved</source>
         <translation>Исходное решение</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_circlebyarcoptions.ui" line="45"/>
-        <location filename="../../generated/librecad/ui/ui_lc_circlebyarcoptions.h" line="104"/>
         <source>Radius Shift:</source>
         <translation>Сдвиг радиуса:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_circlebyarcoptions.ui" line="65"/>
-        <location filename="../../generated/librecad/ui/ui_lc_circlebyarcoptions.h" line="105"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_circlebyarcoptions.ui" line="102"/>
-        <location filename="../../generated/librecad/ui/ui_lc_circlebyarcoptions.h" line="109"/>
         <source>Replace arc</source>
         <translation>Заменить дугу</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_circlebyarcoptions.ui" line="109"/>
-        <location filename="../../generated/librecad/ui/ui_lc_circlebyarcoptions.h" line="110"/>
         <source>Pen:</source>
         <translation>Перо:</translation>
     </message>
@@ -1726,49 +1716,41 @@ first base, second base, first target, second target.</source>
     <name>LC_CrossOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_crossoptions.ui" line="20"/>
-        <location filename="../../generated/librecad/ui/ui_lc_crossoptions.h" line="131"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_crossoptions.ui" line="63"/>
-        <location filename="../../generated/librecad/ui/ui_lc_crossoptions.h" line="132"/>
         <source>Extension</source>
         <translation>Расширение</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_crossoptions.ui" line="68"/>
-        <location filename="../../generated/librecad/ui/ui_lc_crossoptions.h" line="133"/>
         <source>Total Length</source>
         <translation>Общая длина</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_crossoptions.ui" line="73"/>
-        <location filename="../../generated/librecad/ui/ui_lc_crossoptions.h" line="134"/>
         <source>Percent</source>
         <translation>Процент</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_crossoptions.ui" line="125"/>
-        <location filename="../../generated/librecad/ui/ui_lc_crossoptions.h" line="136"/>
         <source>X:</source>
         <translation>X:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_crossoptions.ui" line="132"/>
-        <location filename="../../generated/librecad/ui/ui_lc_crossoptions.h" line="137"/>
         <source>Y:</source>
         <translation>Y:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_crossoptions.ui" line="161"/>
-        <location filename="../../generated/librecad/ui/ui_lc_crossoptions.h" line="138"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_crossoptions.ui" line="168"/>
-        <location filename="../../generated/librecad/ui/ui_lc_crossoptions.h" line="139"/>
         <source>Angle:</source>
         <translation>Угол:</translation>
     </message>
@@ -2360,87 +2342,70 @@ first base, second base, first target, second target.</source>
     <name>LC_LineAngleRelOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="160"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="42"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="161"/>
         <source>Offset:</source>
         <translation>Смещение:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="50"/>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="181"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="162"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="176"/>
         <source>Free</source>
         <translation>Произвольно</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="55"/>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="110"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="163"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="169"/>
         <source>Start</source>
         <translation>Начало</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="60"/>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="115"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="164"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="170"/>
         <source>Middle</source>
         <translation>Середина</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="65"/>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="120"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="165"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="171"/>
         <source>End</source>
         <translation>Конец</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="73"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="167"/>
         <source>Line Snap:</source>
         <translation>Привязка линии:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="80"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="168"/>
         <source>Rel</source>
         <translation>Выпуск</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="144"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="173"/>
         <source>Divide</source>
         <translation>Разделить</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="167"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="174"/>
         <source>Tick Snap:</source>
         <translation>Отметка привязки:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="174"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="175"/>
         <source>Length:</source>
         <translation>Длина:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="201"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="177"/>
         <source>Angle:</source>
         <translation>Угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_lineanglereloptions.ui" line="208"/>
-        <location filename="../../generated/librecad/ui/ui_lc_lineanglereloptions.h" line="178"/>
         <source>Snap Distance:</source>
         <translation>Расстояние привязки:</translation>
     </message>
@@ -2449,73 +2414,61 @@ first base, second base, first target, second target.</source>
     <name>LC_LineFromPointToLineOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_linefrompointtolineoptions.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linefrompointtolineoptions.h" line="190"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linefrompointtolineoptions.ui" line="48"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linefrompointtolineoptions.h" line="191"/>
         <source>Angle:</source>
         <translation>Угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linefrompointtolineoptions.ui" line="55"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linefrompointtolineoptions.h" line="192"/>
         <source>Size:</source>
         <translation>Размер:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linefrompointtolineoptions.ui" line="62"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linefrompointtolineoptions.h" line="193"/>
         <source>Orthogonal</source>
         <translation>Перпендикулярно</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linefrompointtolineoptions.ui" line="105"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linefrompointtolineoptions.h" line="195"/>
         <source>To Intersection</source>
         <translation>До пересечения</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linefrompointtolineoptions.ui" line="110"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linefrompointtolineoptions.h" line="196"/>
         <source>Fixed Length</source>
         <translation>Фиксированная длина</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linefrompointtolineoptions.ui" line="139"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linefrompointtolineoptions.h" line="198"/>
         <source>End offset:</source>
         <translation>конец смещения:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linefrompointtolineoptions.ui" line="217"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linefrompointtolineoptions.h" line="199"/>
         <source>Start</source>
         <translation>Начало</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linefrompointtolineoptions.ui" line="222"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linefrompointtolineoptions.h" line="200"/>
         <source>Middle</source>
         <translation>Середина</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linefrompointtolineoptions.ui" line="227"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linefrompointtolineoptions.h" line="201"/>
         <source>End</source>
         <translation>Конец</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linefrompointtolineoptions.ui" line="241"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linefrompointtolineoptions.h" line="203"/>
         <source>Length:</source>
         <translation>Длина:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linefrompointtolineoptions.ui" line="270"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linefrompointtolineoptions.h" line="204"/>
         <source>Snap:</source>
         <translation>Привязка:</translation>
     </message>
@@ -2524,85 +2477,69 @@ first base, second base, first target, second target.</source>
     <name>LC_LineJoinOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="20"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="123"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="51"/>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="144"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="124"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="135"/>
         <source>Extend/Trim</source>
         <translation>Удлинение/обрезка</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="56"/>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="149"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="125"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="136"/>
         <source>Add segment</source>
         <translation>Добавить сегмент</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="61"/>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="154"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="126"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="137"/>
         <source>No change</source>
         <translation>Без изменений</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="69"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="128"/>
         <source>Create Polyline</source>
         <translation>Создать полилинию</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="76"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="129"/>
         <source>Attributes:</source>
         <translation>Атрибуты:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="102"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="130"/>
         <source>Active Pen</source>
         <translation>Активное перо</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="107"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="131"/>
         <source>Line 1</source>
         <translation>Линия 1</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="112"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="132"/>
         <source>Line 2</source>
         <translation>Линия 2</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="117"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="133"/>
         <source>Both lines</source>
         <translation>Обе линии</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="162"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="139"/>
         <source>Remove originals</source>
         <translation>Удалить оригиналы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="169"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="140"/>
         <source>Line 2:</source>
         <translation>Линия 2:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linejoinoptions.ui" line="176"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linejoinoptions.h" line="141"/>
         <source>Line 1:</source>
         <translation>Линия 1:</translation>
     </message>
@@ -2611,61 +2548,51 @@ first base, second base, first target, second target.</source>
     <name>LC_LinePointsOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_linepointsoptions.ui" line="20"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linepointsoptions.h" line="159"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linepointsoptions.ui" line="32"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linepointsoptions.h" line="160"/>
         <source>Angle:</source>
         <translation>Угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linepointsoptions.ui" line="73"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linepointsoptions.h" line="161"/>
         <source>Fit Line</source>
         <translation>Подходящая линия</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linepointsoptions.ui" line="128"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linepointsoptions.h" line="162"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linepointsoptions.ui" line="133"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linepointsoptions.h" line="163"/>
         <source>Both</source>
         <translation>Обе</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linepointsoptions.ui" line="138"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linepointsoptions.h" line="164"/>
         <source>Start</source>
         <translation>Начало</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linepointsoptions.ui" line="143"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linepointsoptions.h" line="165"/>
         <source>End</source>
         <translation>Конец</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linepointsoptions.ui" line="183"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linepointsoptions.h" line="167"/>
         <source>Edge Points:</source>
         <translation>Краевые точки:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linepointsoptions.ui" line="196"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linepointsoptions.h" line="168"/>
         <source>Number of points:</source>
         <translation>Количество точек:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_linepointsoptions.ui" line="209"/>
-        <location filename="../../generated/librecad/ui/ui_lc_linepointsoptions.h" line="169"/>
         <source>Fixed Distance</source>
         <translation>Фиксированное расстояние</translation>
     </message>
@@ -2970,19 +2897,16 @@ first base, second base, first target, second target.</source>
     <name>LC_ModifyBreakDivideOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_modifybreakdivideoptions.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifybreakdivideoptions.h" line="59"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_modifybreakdivideoptions.ui" line="39"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifybreakdivideoptions.h" line="60"/>
         <source>Remove Segments</source>
         <translation>Удалить сегменты</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_modifybreakdivideoptions.ui" line="46"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifybreakdivideoptions.h" line="61"/>
         <source>Remove Selected</source>
         <translation>Удалить выбранное</translation>
     </message>
@@ -2991,63 +2915,50 @@ first base, second base, first target, second target.</source>
     <name>LC_ModifyGapOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="115"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="42"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="116"/>
         <source>Gap Snap:</source>
         <translation>Привязка к разрыву:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="49"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="117"/>
         <source>Snap Distance:</source>
         <translation>Расстояние привязки:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="56"/>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="87"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="118"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="120"/>
         <source>Free</source>
         <translation>Произвольно</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="79"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="119"/>
         <source>Gap Size:</source>
         <translation>Размер разрыва:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="92"/>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="111"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="121"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="125"/>
         <source>Start</source>
         <translation>Начало</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="97"/>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="116"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="122"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="126"/>
         <source>Middle</source>
         <translation>Середина</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="102"/>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="121"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="123"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="127"/>
         <source>End</source>
         <translation>Конец</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_modifygapoptions.ui" line="129"/>
-        <location filename="../../generated/librecad/ui/ui_lc_modifygapoptions.h" line="129"/>
         <source>Line Snap:</source>
         <translation>Привязка линии:</translation>
     </message>
@@ -3372,169 +3283,141 @@ Please note that if you&apos;ll save pen via editor without restart, current pen
     <name>LC_Rectangle1PointOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="203"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="204"/>
         <source>Polyline</source>
         <translation>Полилиния</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="33"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="205"/>
         <source>Height:</source>
         <translation>Высота:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="40"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="206"/>
         <source>Edges:</source>
         <translation>Края:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="63"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="207"/>
         <source>Corners:</source>
         <translation>Углы:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="86"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="208"/>
         <source>Size inner</source>
         <translation>Внутренний размер</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="93"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="209"/>
         <source>Length X:</source>
         <translation>Длина Х:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="100"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="210"/>
         <source>Radius:</source>
         <translation>Радиус:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="123"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="211"/>
         <source>Snap:</source>
         <translation>Привязка:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="162"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="212"/>
         <source>Length Y:</source>
         <translation>Длина Y:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="170"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="213"/>
         <source>Top-left</source>
         <translation>По левому верхнему краю</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="175"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="214"/>
         <source>Top</source>
         <translation>Сверху</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="180"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="215"/>
         <source>Top-right</source>
         <translation>По правому верхнему краю</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="185"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="216"/>
         <source>Left</source>
         <translation>Слева</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="190"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="217"/>
         <source>Middle</source>
         <translation>Посредине</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="195"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="218"/>
         <source>Right</source>
         <translation>Справа</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="200"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="219"/>
         <source>Bottom-left</source>
         <translation>По левому нижнему краю</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="205"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="220"/>
         <source>Bottom</source>
         <translation>Снизу</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="210"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="221"/>
         <source>Bottom-right</source>
         <translation>По правому нижнему краю</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="219"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="223"/>
         <source>Straight</source>
         <translation>Прямые</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="224"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="224"/>
         <source>Round</source>
         <translation>Скруглённые</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="229"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="225"/>
         <source>Bevel</source>
         <translation>Фаска</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="237"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="227"/>
         <source>Snap shift</source>
         <translation>Привязка переключения</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="245"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="228"/>
         <source>Both</source>
         <translation>Обе</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="250"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="229"/>
         <source>Vertical</source>
         <translation>Вертикально</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="255"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="230"/>
         <source>Horizontal</source>
         <translation>Горизонтально</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="279"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="232"/>
         <source>Width:</source>
         <translation>Ширина:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle1pointoptions.ui" line="286"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle1pointoptions.h" line="233"/>
         <source>Base Angle:</source>
         <translation>Базовый угол:</translation>
     </message>
@@ -3543,135 +3426,110 @@ Please note that if you&apos;ll save pen via editor without restart, current pen
     <name>LC_Rectangle2PointsOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="180"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="181"/>
         <source>Snap shift</source>
         <translation>Привязка переключения</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="33"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="182"/>
         <source>Radius:</source>
         <translation>Радиус:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="56"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="183"/>
         <source>Edges:</source>
         <translation>Края:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="63"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="184"/>
         <source>Polyline</source>
         <translation>Полилиния</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="70"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="185"/>
         <source>End Snap:</source>
         <translation>Конец привязки:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="77"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="186"/>
         <source>Corners:</source>
         <translation>Углы:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="100"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="187"/>
         <source>Length X:</source>
         <translation>Длина Х:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="107"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="188"/>
         <source>Start Snap:</source>
         <translation>Начало привязки:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="131"/>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="178"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="189"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="195"/>
         <source>Corner</source>
         <translation>Угол</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="136"/>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="183"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="190"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="196"/>
         <source>Mid-Vertical</source>
         <translation>Средне-вертикальный</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="141"/>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="188"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="191"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="197"/>
         <source>Mid-Horizontal</source>
         <translation>Средне-горизонтальный</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="146"/>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="193"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="192"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="198"/>
         <source>Middle</source>
         <translation>Середина</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="170"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="194"/>
         <source>Base Angle:</source>
         <translation>Базовый угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="202"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="200"/>
         <source>Straight</source>
         <translation>Прямые</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="207"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="201"/>
         <source>Round</source>
         <translation>Скруглённые</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="212"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="202"/>
         <source>Bevel</source>
         <translation>Фаска</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="220"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="204"/>
         <source>Length Y:</source>
         <translation>Длина Y:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="228"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="205"/>
         <source>Both</source>
         <translation>Обе</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="233"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="206"/>
         <source>Vertical</source>
         <translation>Вертикально</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle2pointsoptions.ui" line="238"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle2pointsoptions.h" line="207"/>
         <source>Horizontal</source>
         <translation>Горизонтально</translation>
     </message>
@@ -3680,103 +3538,86 @@ Please note that if you&apos;ll save pen via editor without restart, current pen
     <name>LC_Rectangle3PointsOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="236"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="55"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="237"/>
         <source>Polyline</source>
         <translation>Полилиния</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="63"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="238"/>
         <source>Both</source>
         <translation>Обе</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="68"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="239"/>
         <source>Vertical</source>
         <translation>Вертикально</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="73"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="240"/>
         <source>Horizontal</source>
         <translation>Горизонтально</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="81"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="242"/>
         <source>Edges:</source>
         <translation>Края:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="88"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="243"/>
         <source>Quadrangle</source>
         <translation>Четырехугольник</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="95"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="244"/>
         <source>Fixed Base Angle:</source>
         <translation>Фиксированный базовый угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="130"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="245"/>
         <source>Length X:</source>
         <translation>Длина Х:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="160"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="246"/>
         <source>Straight</source>
         <translation>Прямые</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="165"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="247"/>
         <source>Round</source>
         <translation>Скруглённые</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="170"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="248"/>
         <source>Bevel</source>
         <translation>Фаска</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="178"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="250"/>
         <source>Corners:</source>
         <translation>Углы:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="185"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="251"/>
         <source>Snap shift</source>
         <translation>Привязка переключения</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="192"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="252"/>
         <source>Length Y:</source>
         <translation>Длина Y:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="243"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="253"/>
         <source>Radius:</source>
         <translation>Радиус:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_rectangle3pointsoptions.ui" line="312"/>
-        <location filename="../../generated/librecad/ui/ui_lc_rectangle3pointsoptions.h" line="254"/>
         <source>Fixed Inner Angle:</source>
         <translation>Фиксированный внутренний угол:</translation>
     </message>
@@ -3826,107 +3667,88 @@ Please note that if you&apos;ll save pen via editor without restart, current pen
     <name>LC_SliceDivideOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="245"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="48"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="246"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="53"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="247"/>
         <source>Both</source>
         <translation>Обе</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="58"/>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="266"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="248"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="260"/>
         <source>Start</source>
         <translation>Начало</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="63"/>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="276"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="249"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="262"/>
         <source>End</source>
         <translation>Конец</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="71"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="251"/>
         <source>Edge Tick:</source>
         <translation>Галочка края:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="113"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="252"/>
         <source>Rel</source>
         <translation>Выпуск</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="120"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="253"/>
         <source>Offset:</source>
         <translation>Смещение:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="158"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="254"/>
         <source>Count:</source>
         <translation>Подсчёт:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="189"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="255"/>
         <source>Start Circle Angle:</source>
         <translation>Начальный угол окружности:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="221"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="256"/>
         <source>Tick Length:</source>
         <translation>Галочка длины:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="228"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="257"/>
         <source>Tick snap:</source>
         <translation>Галочка привязки:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="235"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="258"/>
         <source>Angle:</source>
         <translation>Угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="242"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="259"/>
         <source>Divide</source>
         <translation>Разделить</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="271"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="261"/>
         <source>Middle</source>
         <translation>Середина</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="284"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="264"/>
         <source>Fixed </source>
         <translation>Зафиксировано </translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_slicedivideoptions.ui" line="318"/>
-        <location filename="../../generated/librecad/ui/ui_lc_slicedivideoptions.h" line="265"/>
         <source>Distance:</source>
         <translation>Расстояние:</translation>
     </message>
@@ -3935,37 +3757,31 @@ Please note that if you&apos;ll save pen via editor without restart, current pen
     <name>LC_StarOptions</name>
     <message>
         <location filename="../src/ui/forms/lc_staroptions.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_lc_staroptions.h" line="103"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_staroptions.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_lc_staroptions.h" line="104"/>
         <source>Radius Inner</source>
         <translation>Внутренний радиус</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_staroptions.ui" line="49"/>
-        <location filename="../../generated/librecad/ui/ui_lc_staroptions.h" line="105"/>
         <source>Polyline</source>
         <translation>Полилиния</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_staroptions.ui" line="56"/>
-        <location filename="../../generated/librecad/ui/ui_lc_staroptions.h" line="106"/>
         <source>Radius Outer</source>
         <translation>Внешний радиус</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_staroptions.ui" line="86"/>
-        <location filename="../../generated/librecad/ui/ui_lc_staroptions.h" line="107"/>
         <source>Symmetric</source>
         <translation>Симметричный</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/lc_staroptions.ui" line="93"/>
-        <location filename="../../generated/librecad/ui/ui_lc_staroptions.h" line="108"/>
         <source>Number:</source>
         <translation>Количество:</translation>
     </message>
@@ -4509,6 +4325,21 @@ Auto-save disabled.</source>
         <translation>Экспорт в PDF</translation>
     </message>
     <message>
+        <location filename="../src/main/qc_applicationwindow.cpp" line="2506"/>
+        <source>Paper settings</source>
+        <translation>Параметры бумаги</translation>
+    </message>
+    <message>
+        <location filename="../src/main/qc_applicationwindow.cpp" line="2507"/>
+        <source>Paper size and/or margins have been changed!</source>
+        <translation>Размер бумаги и/или поля были изменены!</translation>
+    </message>
+    <message>
+        <location filename="../src/main/qc_applicationwindow.cpp" line="2508"/>
+        <source>Do you want to apply changes to current drawing?</source>
+        <translation>Применить изменения к текущему чертежу?</translation>
+    </message>
+    <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="2637"/>
         <source>Printing complete</source>
         <translation>Печать завершена</translation>
@@ -5001,13 +4832,11 @@ p, li { white-space: pre-wrap; }
     <name>QG_BlockDialog</name>
     <message>
         <location filename="../src/ui/forms/qg_blockdialog.ui" line="20"/>
-        <location filename="../../generated/librecad/ui/ui_qg_blockdialog.h" line="84"/>
         <source>Block Settings</source>
         <translation>Параметры блока</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_blockdialog.ui" line="43"/>
-        <location filename="../../generated/librecad/ui/ui_qg_blockdialog.h" line="85"/>
         <source>Block Name:</source>
         <translation>Имя блока:</translation>
     </message>
@@ -5278,26 +5107,22 @@ in a separate window</source>
     <name>QG_CommandWidget</name>
     <message>
         <location filename="../src/ui/forms/qg_commandwidget.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_qg_commandwidget.h" line="113"/>
         <source>Command Line</source>
         <translation>Командная строка</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_commandwidget.ui" line="44"/>
-        <location filename="../../generated/librecad/ui/ui_qg_commandwidget.h" line="115"/>
         <source>Command history and output</source>
         <translation>История команд и вывода</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_commandwidget.ui" line="82"/>
-        <location filename="../../generated/librecad/ui/ui_qg_commandwidget.h" line="117"/>
         <location filename="../src/ui/forms/qg_commandwidget.cpp" line="183"/>
         <source>Command:</source>
         <translation>Команда:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_commandwidget.ui" line="132"/>
-        <location filename="../../generated/librecad/ui/ui_qg_commandwidget.h" line="118"/>
         <source>...</source>
         <translation></translation>
     </message>
@@ -5342,11 +5167,6 @@ in a separate window</source>
         <location filename="../src/ui/forms/qg_coordinatewidget.ui" line="92"/>
         <location filename="../src/ui/forms/qg_coordinatewidget.ui" line="131"/>
         <location filename="../src/ui/forms/qg_coordinatewidget.ui" line="141"/>
-        <location filename="../../generated/librecad/ui/ui_qg_coordinatewidget.h" line="108"/>
-        <location filename="../../generated/librecad/ui/ui_qg_coordinatewidget.h" line="109"/>
-        <location filename="../../generated/librecad/ui/ui_qg_coordinatewidget.h" line="110"/>
-        <location filename="../../generated/librecad/ui/ui_qg_coordinatewidget.h" line="111"/>
-        <location filename="../../generated/librecad/ui/ui_qg_coordinatewidget.h" line="112"/>
         <source>Coordinates</source>
         <translation>Координаты</translation>
     </message>
@@ -5364,61 +5184,51 @@ in a separate window</source>
     <name>QG_DimensionLabelEditor</name>
     <message>
         <location filename="../src/ui/forms/qg_dimensionlabeleditor.ui" line="20"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimensionlabeleditor.h" line="169"/>
         <source>Dimension Label Editor</source>
         <translation>Редактор размерных надписей</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimensionlabeleditor.ui" line="32"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimensionlabeleditor.h" line="170"/>
         <source>Dimension Label:</source>
         <translation>Размерная надпись:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimensionlabeleditor.ui" line="57"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimensionlabeleditor.h" line="171"/>
         <source>Label:</source>
         <translation>Метка:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimensionlabeleditor.ui" line="130"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimensionlabeleditor.h" line="173"/>
         <source>Insert:</source>
         <translation>Вставить:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimensionlabeleditor.ui" line="147"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimensionlabeleditor.h" line="174"/>
         <source>⌀ (Diameter)</source>
         <translation>⌀ (диаметр)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimensionlabeleditor.ui" line="152"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimensionlabeleditor.h" line="175"/>
         <source>° (Degree)</source>
         <translation>° (градус)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimensionlabeleditor.ui" line="157"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimensionlabeleditor.h" line="176"/>
         <source>± (Plus / Minus)</source>
         <translation>± (плюс-минус)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimensionlabeleditor.ui" line="162"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimensionlabeleditor.h" line="177"/>
         <source>π (Pi)</source>
         <translation>π («пи»)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimensionlabeleditor.ui" line="167"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimensionlabeleditor.h" line="178"/>
         <source>× (Times)</source>
         <translation>× (знак умножения)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimensionlabeleditor.ui" line="172"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimensionlabeleditor.h" line="179"/>
         <source>÷ (Division)</source>
         <translation>÷ (знак деления)</translation>
     </message>
@@ -5442,55 +5252,46 @@ in a separate window</source>
     <name>QG_DlgArc</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgarc.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgarc.h" line="224"/>
         <source>Arc</source>
         <translation>Дуга</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgarc.ui" line="51"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgarc.h" line="226"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgarc.ui" line="78"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgarc.h" line="227"/>
         <source>Geometry</source>
         <translation>Геометрия</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgarc.ui" line="84"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgarc.h" line="228"/>
         <source>Radius:</source>
         <translation>Радиус:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgarc.ui" line="104"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgarc.h" line="229"/>
         <source>Center (y):</source>
         <translation>Центр (y):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgarc.ui" line="124"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgarc.h" line="230"/>
         <source>Center (x):</source>
         <translation>Центр (x):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgarc.ui" line="144"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgarc.h" line="231"/>
         <source>Start Angle:</source>
         <translation>Начальный угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgarc.ui" line="174"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgarc.h" line="232"/>
         <source>End Angle:</source>
         <translation>Конечный угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgarc.ui" line="216"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgarc.h" line="233"/>
         <source>Reversed</source>
         <translation>Обратное направление</translation>
     </message>
@@ -5499,19 +5300,16 @@ in a separate window</source>
     <name>QG_DlgAttributes</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgattributes.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgattributes.h" line="115"/>
         <source>Attributes</source>
         <translation>Атрибуты</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgattributes.ui" line="44"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgattributes.h" line="116"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgattributes.ui" line="69"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgattributes.h" line="118"/>
         <source>Apply attributes also to all sub-entities of selected INSERT.
 This recursively modifies all entities of the Block itself.</source>
         <translation>Применить атрибуты также ко всем вложенным объектам выбранной ВСТАВКИ.
@@ -5519,7 +5317,6 @@ This recursively modifies all entities of the Block itself.</source>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgattributes.ui" line="73"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgattributes.h" line="121"/>
         <source>Apply attributes Block-deep</source>
         <translation>Применить атрибуты на уровне блоков</translation>
     </message>
@@ -5528,37 +5325,31 @@ This recursively modifies all entities of the Block itself.</source>
     <name>QG_DlgCircle</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgcircle.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgcircle.h" line="180"/>
         <source>Circle</source>
         <translation>Окружность</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgcircle.ui" line="44"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgcircle.h" line="181"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgcircle.ui" line="71"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgcircle.h" line="182"/>
         <source>Geometry</source>
         <translation>Геометрия</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgcircle.ui" line="77"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgcircle.h" line="183"/>
         <source>Radius:</source>
         <translation>Радиус:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgcircle.ui" line="97"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgcircle.h" line="184"/>
         <source>Center (y):</source>
         <translation>Центр (y):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgcircle.ui" line="117"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgcircle.h" line="185"/>
         <source>Center (x):</source>
         <translation>Центр (x):</translation>
     </message>
@@ -5567,25 +5358,21 @@ This recursively modifies all entities of the Block itself.</source>
     <name>QG_DlgDimLinear</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgdimlinear.ui" line="20"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgdimlinear.h" line="161"/>
         <source>Linear Dimension</source>
         <translation>Линейный размер</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgdimlinear.ui" line="47"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgdimlinear.h" line="162"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgdimlinear.ui" line="79"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgdimlinear.h" line="163"/>
         <source>Geometry</source>
         <translation>Геометрия</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgdimlinear.ui" line="103"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgdimlinear.h" line="164"/>
         <source>Angle:</source>
         <translation>Угол:</translation>
     </message>
@@ -5594,13 +5381,11 @@ This recursively modifies all entities of the Block itself.</source>
     <name>QG_DlgDimension</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgdimension.ui" line="20"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgdimension.h" line="114"/>
         <source>Dimension</source>
         <translation>Размер</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgdimension.ui" line="47"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgdimension.h" line="115"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
@@ -5609,67 +5394,56 @@ This recursively modifies all entities of the Block itself.</source>
     <name>QG_DlgEllipse</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgellipse.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgellipse.h" line="254"/>
         <source>Ellipse</source>
         <translation>Эллипс</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgellipse.ui" line="51"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgellipse.h" line="256"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgellipse.ui" line="78"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgellipse.h" line="257"/>
         <source>Geometry</source>
         <translation>Геометрия</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgellipse.ui" line="84"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgellipse.h" line="258"/>
         <source>Center (y):</source>
         <translation>Центр (y):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgellipse.ui" line="104"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgellipse.h" line="259"/>
         <source>Center (x):</source>
         <translation>Центр (x):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgellipse.ui" line="156"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgellipse.h" line="260"/>
         <source>End Angle:</source>
         <translation>Конечный угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgellipse.ui" line="186"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgellipse.h" line="261"/>
         <source>Start Angle:</source>
         <translation>Начальный угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgellipse.ui" line="196"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgellipse.h" line="262"/>
         <source>Rotation:</source>
         <translation>Поворот:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgellipse.ui" line="226"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgellipse.h" line="263"/>
         <source>Minor:</source>
         <translation>Меньшая:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgellipse.ui" line="236"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgellipse.h" line="264"/>
         <source>Major:</source>
         <translation>Большая:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgellipse.ui" line="256"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgellipse.h" line="265"/>
         <source>Reversed</source>
         <translation>Обратное направление</translation>
     </message>
@@ -5678,49 +5452,41 @@ This recursively modifies all entities of the Block itself.</source>
     <name>QG_DlgHatch</name>
     <message>
         <location filename="../src/ui/forms/qg_dlghatch.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlghatch.h" line="176"/>
         <source>Choose Hatch Attributes</source>
         <translation>Выберите атрибуты штриховки</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlghatch.ui" line="22"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlghatch.h" line="177"/>
         <source>Pattern</source>
         <translation>Рисунок</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlghatch.ui" line="34"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlghatch.h" line="178"/>
         <source>Angle:</source>
         <translation>Угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlghatch.ui" line="44"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlghatch.h" line="179"/>
         <source>Scale:</source>
         <translation>Масштаб:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlghatch.ui" line="57"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlghatch.h" line="180"/>
         <source>Solid Fill</source>
         <translation>Заливка цветом</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlghatch.ui" line="67"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlghatch.h" line="181"/>
         <source>Preview</source>
         <translation>Просмотр</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlghatch.ui" line="73"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlghatch.h" line="182"/>
         <source>Enable Preview</source>
         <translation>Включить просмотр</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlghatch.ui" line="86"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlghatch.h" line="183"/>
         <source>Area</source>
         <translation>Область</translation>
     </message>
@@ -5729,79 +5495,66 @@ This recursively modifies all entities of the Block itself.</source>
     <name>QG_DlgImage</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="281"/>
         <source>Image</source>
         <translation>Изображение</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="44"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="282"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="80"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="283"/>
         <source>Geometry</source>
         <translation>Геометрия</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="86"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="284"/>
         <source>Angle:</source>
         <translation>Угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="93"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="285"/>
         <source>Height:</source>
         <translation>Высота:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="110"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="286"/>
         <source>insert (y):</source>
         <translation>Положение (y):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="153"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="287"/>
         <source>Size (px):</source>
         <translation>Размер (пикселей):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="196"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="288"/>
         <source>path:</source>
         <translation>Расположение:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="203"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="289"/>
         <source>insert (x):</source>
         <translation>Положение (x):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="226"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="290"/>
         <source>Scale:</source>
         <translation>Масштаб:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="246"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="291"/>
         <source>DPI</source>
         <translation>DPI</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="253"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="292"/>
         <source>Width:</source>
         <translation>Ширина:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimage.ui" line="270"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimage.h" line="294"/>
         <source>Select an image file</source>
         <translation>Выберите файл изображения</translation>
     </message>
@@ -5810,13 +5563,11 @@ This recursively modifies all entities of the Block itself.</source>
     <name>QG_DlgInitial</name>
     <message>
         <location filename="../src/ui/forms/qg_dlginitial.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginitial.h" line="148"/>
         <source>Welcome</source>
         <translation>Добро пожаловать</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginitial.ui" line="64"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginitial.h" line="149"/>
         <source>&lt;font size=&quot;+1&quot;&gt;&lt;b&gt;Welcome to LibreCAD&lt;/b&gt;
 &lt;/font&gt;
 &lt;br&gt;
@@ -5830,19 +5581,16 @@ Please choose the unit you want to use for new drawings and your preferred langu
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginitial.ui" line="104"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginitial.h" line="154"/>
         <source>Default Unit:</source>
         <translation>Единица измерения по умолчанию:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginitial.ui" line="114"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginitial.h" line="155"/>
         <source>GUI Language:</source>
         <translation>Язык интерфейса:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginitial.ui" line="124"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginitial.h" line="156"/>
         <source>Command Language:</source>
         <translation>Язык команд:</translation>
     </message>
@@ -5851,73 +5599,61 @@ Please choose the unit you want to use for new drawings and your preferred langu
     <name>QG_DlgInsert</name>
     <message>
         <location filename="../src/ui/forms/qg_dlginsert.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginsert.h" line="270"/>
         <source>Insert</source>
         <translation>Вставка</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginsert.ui" line="44"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginsert.h" line="271"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginsert.ui" line="71"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginsert.h" line="272"/>
         <source>Geometry</source>
         <translation>Геометрия</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginsert.ui" line="129"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginsert.h" line="273"/>
         <source>Insertion point (x):</source>
         <translation>Точка вставки (x):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginsert.ui" line="139"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginsert.h" line="274"/>
         <source>Insertion point (y):</source>
         <translation>Точка вставки (y):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginsert.ui" line="159"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginsert.h" line="275"/>
         <source>Scale X:</source>
         <translation>Масштаб по X:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginsert.ui" line="179"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginsert.h" line="276"/>
         <source>Scale Y:</source>
         <translation>Масштаб по Y:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginsert.ui" line="189"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginsert.h" line="277"/>
         <source>Angle:</source>
         <translation>Угол:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginsert.ui" line="209"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginsert.h" line="278"/>
         <source>Rows:</source>
         <translation>Ряды:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginsert.ui" line="239"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginsert.h" line="279"/>
         <source>Columns:</source>
         <translation>Столбцы:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginsert.ui" line="249"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginsert.h" line="280"/>
         <source>Row Spacing:</source>
         <translation>Расстояние между рядами:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlginsert.ui" line="279"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlginsert.h" line="281"/>
         <source>Column Spacing:</source>
         <translation>Расстояние между столбцами:</translation>
     </message>
@@ -5926,49 +5662,41 @@ Please choose the unit you want to use for new drawings and your preferred langu
     <name>QG_DlgLine</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgline.ui" line="29"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgline.h" line="200"/>
         <source>Line</source>
         <translation>Линия</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgline.ui" line="35"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgline.h" line="201"/>
         <source>ID: </source>
         <translation>ID: </translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgline.ui" line="54"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgline.h" line="202"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgline.ui" line="87"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgline.h" line="203"/>
         <source>Geometry</source>
         <translation>Геометрия</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgline.ui" line="93"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgline.h" line="204"/>
         <source>End point (x):</source>
         <translation>Конечная точка (x):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgline.ui" line="123"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgline.h" line="205"/>
         <source>End point (y):</source>
         <translation>Конечная точка (y):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgline.ui" line="133"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgline.h" line="206"/>
         <source>Start point (y):</source>
         <translation>Начальная точка (y):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgline.ui" line="153"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgline.h" line="207"/>
         <source>Start point (x):</source>
         <translation>Начальная точка (x):</translation>
     </message>
@@ -5977,931 +5705,776 @@ Please choose the unit you want to use for new drawings and your preferred langu
     <name>QG_DlgMText</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="801"/>
         <source>MText</source>
         <translation>Многострочный текст</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="45"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="802"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="104"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="803"/>
         <source>Font Settings</source>
         <translation>Параметры Шрифта</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="113"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="804"/>
         <source>&amp;Line spacing:</source>
         <translation>&amp;Межстрочный интервал:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="132"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="805"/>
         <source>&amp;Default line spacing</source>
         <translation>Меж&amp;строчный интервал по умолчанию</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="135"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="807"/>
         <source>Alt+D</source>
         <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="223"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="809"/>
         <source>&amp;Height:</source>
         <translation>Высо&amp;та:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="246"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="810"/>
         <source>Font:</source>
         <translation>Шрифт:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="298"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="811"/>
         <source>Alignment</source>
         <translation>Выравнивание</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="316"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="813"/>
         <source>Top Right</source>
         <translation>По правому верхнему краю</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="348"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="817"/>
         <source>Top Left</source>
         <translation>По левому верхнему краю</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="380"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="821"/>
         <source>Middle Left</source>
         <translation>По середине слева</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="412"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="825"/>
         <source>Middle Center</source>
         <translation>По центру</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="444"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="829"/>
         <source>Middle Right</source>
         <translation>По середине справа</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="476"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="833"/>
         <source>Bottom Left</source>
         <translation>По левому нижнему краю</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="508"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="837"/>
         <source>Bottom Right</source>
         <translation>По правому нижнему краю</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="540"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="841"/>
         <source>Bottom Center</source>
         <translation>Внизу и по центру</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="572"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="845"/>
         <source>Top Center</source>
         <translation>Вверху и по центру</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="607"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="848"/>
         <source>Angle</source>
         <translation>Угол</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="645"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="849"/>
         <source>Text Direction</source>
         <translation>Направление текста</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="657"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="850"/>
         <source>Left to right</source>
         <translation>Слева направо</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="670"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="851"/>
         <source>Right to left</source>
         <translation>Справа налево</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="691"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="852"/>
         <source>Text:</source>
         <translation>Текст:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="717"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="854"/>
         <source>Clear Text</source>
         <translation>Очистить текст</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="731"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="858"/>
         <source>Load Text From File</source>
         <translation>Загрузить текст из файла</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="745"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="862"/>
         <source>Save Text To File</source>
         <translation>Сохранить текст в файл</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="759"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="866"/>
         <source>Cut</source>
         <translation>Вырезать</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="773"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="870"/>
         <source>Copy</source>
         <translation>Копировать</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="787"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="874"/>
         <source>Paste</source>
         <translation>Вставить</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="834"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="877"/>
         <source>Insert Symbol</source>
         <translation>Вставить символ</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="847"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="878"/>
         <source>Diameter (⌀)</source>
         <translation>⌀ (диаметр)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="852"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="879"/>
         <source>Degree (°)</source>
         <translation>° (градус)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="857"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="880"/>
         <source>Plus / Minus (±)</source>
         <translation>± (плюс-минус)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="862"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="881"/>
         <source>At (@)</source>
         <translation>@ (эт коммерческое)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="867"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="882"/>
         <source>Hash (#)</source>
         <translation># (октоторп)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="872"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="883"/>
         <source>Dollar ($)</source>
         <translation>$ (знак доллара)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="877"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="884"/>
         <source>Copyright (©)</source>
         <translation>© (знак авторского права)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="882"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="885"/>
         <source>Registered (®)</source>
         <translation>® (знак зарегистрированной марки)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="887"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="886"/>
         <source>Paragraph (§)</source>
         <translation>§ (знак параграфа)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="892"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="887"/>
         <source>Pi (π)</source>
         <translation>π («пи»)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="897"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="888"/>
         <source>Pound (£)</source>
         <translation>£ (знак фунта стерлингов)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="902"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="889"/>
         <source>Yen (¥)</source>
         <translation>¥ (знак иены)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="907"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="890"/>
         <source>Times (×)</source>
         <translation>× (знак умножения)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="912"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="891"/>
         <source>Division (÷)</source>
         <translation>÷ (знак деления)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="923"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="893"/>
         <source>Insert Unicode</source>
         <translation>Вставить символ Юникода</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="929"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="894"/>
         <source>Page:</source>
         <translation>Страница:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="939"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="895"/>
         <source>Char:</source>
         <translation>Символ:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="962"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="896"/>
         <source>[0000-007F] Basic Latin</source>
         <translation>[0000-007F] Основная латиница</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="967"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="897"/>
         <source>[0080-00FF] Latin-1 Supplementary</source>
         <translation>[0080-00FF] Дополнительная латиница 1</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="972"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="898"/>
         <source>[0100-017F] Latin Extended-A</source>
         <translation>[0100-017F] Расширенная латиница A</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="977"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="899"/>
         <source>[0180-024F] Latin Extended-B</source>
         <translation>[0180-024F] Расширенная латиница B</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="982"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="900"/>
         <source>[0250-02AF] IPA Extensions</source>
         <translation>[0250-02AF] Расширения МФА</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="987"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="901"/>
         <source>[02B0-02FF] Spacing Modifier Letters</source>
         <translation>[02B0-02FF] Некомбинируемые протяжённые символы-модификаторы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="992"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="902"/>
         <source>[0300-036F] Combining Diacritical Marks</source>
         <translation>[0300-036F] Комбинируемые диакритические знаки</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="997"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="903"/>
         <source>[0370-03FF] Greek and Coptic</source>
         <translation>[0370-03FF] Греческий и коптский</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1002"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="904"/>
         <source>[0400-04FF] Cyrillic</source>
         <translation>[0400-04FF] Кириллица</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1007"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="905"/>
         <source>[0500-052F] Cyrillic Supplementary</source>
         <translation>[0500-052F] Дополнительная кириллица</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1012"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="906"/>
         <source>[0530-058F] Armenian</source>
         <translation>[0530-058F] Армянский</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1017"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="907"/>
         <source>[0590-05FF] Hebrew</source>
         <translation>[0590-05FF] Иврит</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1022"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="908"/>
         <source>[0600-06FF] Arabic</source>
         <translation>[0600-06FF] Арабский</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1027"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="909"/>
         <source>[0700-074F] Syriac</source>
         <translation>[0700-074F] Сирийский</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1032"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="910"/>
         <source>[0780-07BF] Thaana</source>
         <translation>[0780-07BF] Тана</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1037"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="911"/>
         <source>[0900-097F] Devanagari</source>
         <translation>[0900-097F] Деванагари</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1042"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="912"/>
         <source>[0980-09FF] Bengali</source>
         <translation>[0980-09FF] Бенгальская письменность</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1047"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="913"/>
         <source>[0A00-0A7F] Gurmukhi</source>
         <translation>[0A00-0A7F] Гурмукхи</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1052"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="914"/>
         <source>[0A80-0AFF] Gujarati</source>
         <translation>[0A80-0AFF] Гуджарати</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1057"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="915"/>
         <source>[0B00-0B7F] Oriya</source>
         <translation>[0B00-0B7F] Ория</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1062"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="916"/>
         <source>[0B80-0BFF] Tamil</source>
         <translation>[0B80-0BFF] Тамильская письменность</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1067"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="917"/>
         <source>[0C00-0C7F] Telugu</source>
         <translation>[0C00-0C7F] Телугу</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1072"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="918"/>
         <source>[0C80-0CFF] Kannada</source>
         <translation>[0C80-0CFF] Каннада</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1077"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="919"/>
         <source>[0D00-0D7F] Malayalam</source>
         <translation>[0D00-0D7F] Малаялам</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1082"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="920"/>
         <source>[0D80-0DFF] Sinhala</source>
         <translation>[0D80-0DFF] Сингальская письменность</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1087"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="921"/>
         <source>[0E00-0E7F] Thai</source>
         <translation>[0E00-0E7F] Тайская письменность</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1092"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="922"/>
         <source>[0E80-0EFF] Lao</source>
         <translation>[0E80-0EFF] Лаосская письменность</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1097"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="923"/>
         <source>[0F00-0FFF] Tibetan</source>
         <translation>[0F00-0FFF] Тибетская письменность</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1102"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="924"/>
         <source>[1000-109F] Myanmar</source>
         <translation>[1000-109F] Мьянманская письменность</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1107"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="925"/>
         <source>[10A0-10FF] Georgian</source>
         <translation>[10A0-10FF] Грузинский</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1112"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="926"/>
         <source>[1100-11FF] Hangul Jamo</source>
         <translation>[1100-11FF] Хангыль (корейский)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1117"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="927"/>
         <source>[1200-137F] Ethiopic</source>
         <translation>[1200-137F] Эфиопская слоговая письменность</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1122"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="928"/>
         <source>[13A0-13FF] Cherokee</source>
         <translation>[13A0-13FF] Письменность чероки</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1127"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="929"/>
         <source>[1400-167F] Unified Canadian Aboriginal Syllabic</source>
         <translation>[1400-167F] Канадское слоговое письмо</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1132"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="930"/>
         <source>[1680-169F] Ogham</source>
         <translation>[1680-169F] Огам</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1137"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="931"/>
         <source>[16A0-16FF] Runic</source>
         <translation>[16A0-16FF] Руническая письменность</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1142"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="932"/>
         <source>[1700-171F] Tagalog</source>
         <translation>[1700-171F] Тагальская (байбайин)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1147"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="933"/>
         <source>[1720-173F] Hanunoo</source>
         <translation>[1720-173F] Хануноо</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1152"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="934"/>
         <source>[1740-175F] Buhid</source>
         <translation>[1740-175F] Бухид</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1157"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="935"/>
         <source>[1760-177F] Tagbanwa</source>
         <translation>[1760-177F] Тагбанва</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1162"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="936"/>
         <source>[1780-17FF] Khmer</source>
         <translation>[1780-17FF] Кхмерская письменность</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1167"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="937"/>
         <source>[1800-18AF] Mongolian</source>
         <translation>[1800-18AF] Старомонгольское письмо</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1172"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="938"/>
         <source>[1E00-1EFF] Latin Extended Additional</source>
         <translation>[1E00-1EFF] Дополнительная расширенная латиница</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1177"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="939"/>
         <source>[1F00-1FFF] Greek Extended</source>
         <translation>[1F00-1FFF] Расширенный греческий</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1182"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="940"/>
         <source>[2000-206F] General Punctuation</source>
         <translation>[2000-206F] Знаки пунктуации</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1187"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="941"/>
         <source>[2070-209F] Superscripts and Subscripts</source>
         <translation>[2070-209F] Надстрочные и подстрочные знаки</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1192"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="942"/>
         <source>[20A0-20CF] Currency Symbols</source>
         <translation>[20A0-20CF] Символы валют</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1197"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="943"/>
         <source>[20D0-20FF] Combining Marks for Symbols</source>
         <translation>[20D0-20FF] Комбинируемые диакритические знаки для символов</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1202"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="944"/>
         <source>[2100-214F] Letterlike Symbols</source>
         <translation>[2100-214F] Буквоподобные символы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1207"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="945"/>
         <source>[2150-218F] Number Forms</source>
         <translation>[2150-218F] Числовые формы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1212"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="946"/>
         <source>[2190-21FF] Arrows</source>
         <translation>[2190-21FF] Стрелки</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1217"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="947"/>
         <source>[2200-22FF] Mathematical Operators</source>
         <translation>[2200-22FF] Математические операторы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1222"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="948"/>
         <source>[2300-23FF] Miscellaneous Technical</source>
         <translation>[2300-23FF] Технические символы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1227"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="949"/>
         <source>[2400-243F] Control Pictures</source>
         <translation>[2400-243F] Значки управляющих кодов</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1232"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="950"/>
         <source>[2440-245F] Optical Character Recognition</source>
         <translation>[2440-245F] Символы оптического распознавания</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1237"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="951"/>
         <source>[2460-24FF] Enclosed Alphanumerics</source>
         <translation>[2460-24FF] Вложенные буквы и цифры</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1242"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="952"/>
         <source>[2500-257F] Box Drawing</source>
         <translation>[2500-257F] Символы для черчения рамок</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1247"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="953"/>
         <source>[2580-259F] Block Elements</source>
         <translation>[2580-259F] Блочные элементы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1252"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="954"/>
         <source>[25A0-25FF] Geometric Shapes</source>
         <translation>[25A0-25FF] Геометрические фигуры</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1257"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="955"/>
         <source>[2600-26FF] Miscellaneous Symbols</source>
         <translation>[2600-26FF] Разнообразные символы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1262"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="956"/>
         <source>[2700-27BF] Dingbats</source>
         <translation>[2700-27BF] Графические метки</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1267"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="957"/>
         <source>[27C0-27EF] Miscellaneous Mathematical Symbols-A</source>
         <translation>[27C0-27EF] Разнообразные математические символы A</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1272"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="958"/>
         <source>[27F0-27FF] Supplemental Arrows-A</source>
         <translation>[27F0-27FF] Дополнительные стрелки A</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1277"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="959"/>
         <source>[2800-28FF] Braille Patterns</source>
         <translation>[2800-28FF] Азбука Брайля</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1282"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="960"/>
         <source>[2900-297F] Supplemental Arrows-B</source>
         <translation>[2900-297F] Дополнительные стрелки B</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1287"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="961"/>
         <source>[2980-29FF] Miscellaneous Mathematical Symbols-B</source>
         <translation>[2980-29FF] Разнообразные математические символы B</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1292"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="962"/>
         <source>[2A00-2AFF] Supplemental Mathematical Operators</source>
         <translation>[2A00-2AFF] Дополнительные математические операторы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1297"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="963"/>
         <source>[2E80-2EFF] CJK Radicals Supplement</source>
         <translation>[2E80-2EFF] Дополнительные иероглифические ключи ККЯ</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1302"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="964"/>
         <source>[2F00-2FDF] Kangxi Radicals</source>
         <translation>[2F00-2FDF] Иероглифические ключи словаря Канси</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1307"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="965"/>
         <source>[2FF0-2FFF] Ideographic Description Characters</source>
         <translation>[2FF0-2FFF] Символы описания иероглифов</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1312"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="966"/>
         <source>[3000-303F] CJK Symbols and Punctuation</source>
         <translation>[3000-303F] Символы и знаки пунктуации ККЯ</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1317"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="967"/>
         <source>[3040-309F] Hiragana</source>
         <translation>[3040-309F] Хирагана</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1322"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="968"/>
         <source>[30A0-30FF] Katakana</source>
         <translation>[30A0-30FF] Катакана</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1327"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="969"/>
         <source>[3100-312F] Bopomofo</source>
         <translation>[3100-312F] Чжуинь (бопомофо)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1332"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="970"/>
         <source>[3130-318F] Hangul Compatibility Jamo</source>
         <translation>[3130-318F] Чамо, комбинируемое с хангылем</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1337"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="971"/>
         <source>[3190-319F] Kanbun</source>
         <translation>[3190-319F] Камбун</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1342"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="972"/>
         <source>[31A0-31BF] Bopomofo Extended</source>
         <translation>[31A0-31BF] Расширенный набор символов бопомофо</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1347"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="973"/>
         <source>[3200-32FF] Enclosed CJK Letters and Months</source>
         <translation>[3200-32FF] Вложенные буквы и месяцы ККЯ</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1352"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="974"/>
         <source>[3300-33FF] CJK Compatibility</source>
         <translation>[3300-33FF] Знаки совместимости ККЯ</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1357"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="975"/>
         <source>[3400-4DBF] CJK Unified Ideographs Extension A</source>
         <translation>[3400-4DBF] Унифицированные иероглифы ККЯ (расширение А)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1362"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="976"/>
         <source>[4E00-9FAF] CJK Unified Ideographs</source>
         <translation>[4E00-9FAF] Унифицированные идеограммы ККЯ</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1367"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="977"/>
         <source>[A000-A48F] Yi Syllables</source>
         <translation>[A000-A48F] Слоги, письмо И</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1372"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="978"/>
         <source>[A490-A4CF] Yi Radicals</source>
         <translation>[A490-A4CF] Радикалы, письмо И</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1377"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="979"/>
         <source>[AC00-D7AF] Hangul Syllables</source>
         <translation>[AC00-D7AF] Слоги хангыля</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1382"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="980"/>
         <source>[D800-DBFF] High Surrogates</source>
         <translation>[D800-DBFF] Верхняя часть суррогатных пар</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1387"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="981"/>
         <source>[DC00-DFFF] Low Surrogate Area</source>
         <translation>[DC00-DFFF] Нижняя часть суррогатных пар</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1392"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="982"/>
         <source>[E000-F8FF] Private Use Area</source>
         <translation>[E000-F8FF] Область для частного использования</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1397"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="983"/>
         <source>[F900-FAFF] CJK Compatibility Ideographs</source>
         <translation>[F900-FAFF] Совместимые иероглифы ККЯ</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1402"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="984"/>
         <source>[FB00-FB4F] Alphabetic Presentation Forms</source>
         <translation>[FB00-FB4F] Алфавитные формы представления</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1407"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="985"/>
         <source>[FB50-FDFF] Arabic Presentation Forms-A</source>
         <translation>[FB50-FDFF] Формы представления арабских букв A</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1412"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="986"/>
         <source>[FE00-FE0F] Variation Selectors</source>
         <translation>[FE00-FE0F] Селекторы вариантов начертания</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1417"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="987"/>
         <source>[FE20-FE2F] Combining Half Marks</source>
         <translation>[FE20-FE2F] Комбинируемые половинки символов</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1422"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="988"/>
         <source>[FE30-FE4F] CJK Compatibility Forms</source>
         <translation>[FE30-FE4F] Формы совместимости ККЯ</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1427"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="989"/>
         <source>[FE50-FE6F] Small Form Variants</source>
         <translation>[FE50-FE6F] Варианты малого размера</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1432"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="990"/>
         <source>[FE70-FEFF] Arabic Presentation Forms-B</source>
         <translation>[FE70-FEFF] Формы представления арабских букв B</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1437"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="991"/>
         <source>[FF00-FFEF] Halfwidth and Fullwidth Forms</source>
         <translation>[FF00-FFEF] Полуширинные и полноширинные формы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1442"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="992"/>
         <source>[FFF0-FFFF] Specials</source>
         <translation>[FFF0-FFFF] Специальные символы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1447"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="993"/>
         <source>[10300-1032F] Old Italic</source>
         <translation>[10300-1032F] Старый курсив</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1452"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="994"/>
         <source>[10330-1034F] Gothic</source>
         <translation>[10330-1034F] Готический</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1457"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="995"/>
         <source>[10400-1044F] Deseret</source>
         <translation>[10400-1044F] Десерет</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1462"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="996"/>
         <source>[1D000-1D0FF] Byzantine Musical Symbols</source>
         <translation>[1D000-1D0FF] Византийские музыкальные символы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1467"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="997"/>
         <source>[1D100-1D1FF] Musical Symbols</source>
         <translation>[1D100-1D1FF] Музыкальные символы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1472"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="998"/>
         <source>[1D400-1D7FF] Mathematical Alphanumeric Symbols</source>
         <translation>[1D400-1D7FF] Математические буквенно-цифровые символы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1477"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="999"/>
         <source>[20000-2A6DF] CJK Unified Ideographs Extension B</source>
         <translation>[20000-2A6DF] Унифицированные иероглифы ККЯ (расширение B)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1482"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="1000"/>
         <source>[2F800-2FA1F] CJK Compatibility Ideographs Supplement</source>
         <translation>[2F800-2FA1F] Дополнение совместимых иероглифов ККЯ</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1487"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="1001"/>
         <source>[E0000-E007F] Tags</source>
         <translation>[E0000-E007F] Символы тегов</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1492"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="1002"/>
         <source>[F0000-FFFFD] Supplementary Private Use Area-A</source>
         <translation>[F0000-FFFFD] Дополнительная частная плоскость А</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmtext.ui" line="1497"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmtext.h" line="1003"/>
         <source>[100000-10FFFD] Supplementary Private Use Area-B</source>
         <translation>[100000-10FFFD] Дополнительная частная плоскость B</translation>
     </message>
@@ -6910,43 +6483,36 @@ Please choose the unit you want to use for new drawings and your preferred langu
     <name>QG_DlgMirror</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgmirror.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmirror.h" line="123"/>
         <source>Mirroring Options</source>
         <translation>Параметры отражения</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmirror.ui" line="39"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmirror.h" line="124"/>
         <source>Use current &amp;attributes</source>
         <translation>Использовать текущие &amp;атрибуты</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmirror.ui" line="46"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmirror.h" line="125"/>
         <source>Use current &amp;layer</source>
         <translation>Использовать текущий с&amp;лой</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmirror.ui" line="53"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmirror.h" line="126"/>
         <source>...</source>
         <translation>…</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmirror.ui" line="70"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmirror.h" line="127"/>
         <source>Number of copies</source>
         <translation>Число копий</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmirror.ui" line="88"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmirror.h" line="128"/>
         <source>&amp;Delete Original</source>
         <translation>&amp;Удалить оригинал</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmirror.ui" line="107"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmirror.h" line="129"/>
         <source>&amp;Keep Original</source>
         <translation>&amp;Сохранить оригинал</translation>
     </message>
@@ -6955,55 +6521,46 @@ Please choose the unit you want to use for new drawings and your preferred langu
     <name>QG_DlgMove</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgmove.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmove.h" line="142"/>
         <source>Move/Copy Options</source>
         <translation>Параметры сдвига и копирования</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmove.ui" line="32"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmove.h" line="143"/>
         <source>Number of copies</source>
         <translation>Число копий</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmove.ui" line="50"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmove.h" line="144"/>
         <source>&amp;Delete Original</source>
         <translation>У&amp;далить оригинал</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmove.ui" line="69"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmove.h" line="145"/>
         <source>&amp;Keep Original</source>
         <translation>С&amp;охранить оригинал</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmove.ui" line="88"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmove.h" line="146"/>
         <source>&amp;Multiple Copies</source>
         <translation>&amp;Несколько копий</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmove.ui" line="95"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmove.h" line="148"/>
         <source>Number of copies. Maximum 100</source>
         <translation>Количество копий, не более 100</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmove.ui" line="121"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmove.h" line="150"/>
         <source>Use current &amp;attributes</source>
         <translation>Использовать текущие &amp;атрибуты</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmove.ui" line="128"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmove.h" line="151"/>
         <source>Use current &amp;layer</source>
         <translation>Использовать текущий с&amp;лой</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmove.ui" line="135"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmove.h" line="152"/>
         <source>...</source>
         <translation>…</translation>
     </message>
@@ -7012,61 +6569,51 @@ Please choose the unit you want to use for new drawings and your preferred langu
     <name>QG_DlgMoveRotate</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgmoverotate.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmoverotate.h" line="185"/>
         <source>Move/Rotate Options</source>
         <translation>Параметры сдвига и поворота</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmoverotate.ui" line="41"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmoverotate.h" line="186"/>
         <source>...</source>
         <translation>…</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmoverotate.ui" line="54"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmoverotate.h" line="188"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmoverotate.ui" line="63"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmoverotate.h" line="190"/>
         <source>&amp;Angle (a):</source>
         <translation>Под &amp;углом (a):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmoverotate.ui" line="97"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmoverotate.h" line="191"/>
         <source>Use current &amp;attributes</source>
         <translation>Использовать текущие &amp;атрибуты</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmoverotate.ui" line="104"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmoverotate.h" line="192"/>
         <source>Use current &amp;layer</source>
         <translation>Использовать текущий с&amp;лой</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmoverotate.ui" line="113"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmoverotate.h" line="193"/>
         <source>Number of copies</source>
         <translation>Количество копий</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmoverotate.ui" line="131"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmoverotate.h" line="194"/>
         <source>&amp;Delete Original</source>
         <translation>&amp;Удалить оригинал</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmoverotate.ui" line="150"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmoverotate.h" line="195"/>
         <source>&amp;Keep Original</source>
         <translation>&amp;Сохранить оригинал</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgmoverotate.ui" line="169"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgmoverotate.h" line="196"/>
         <source>&amp;Multiple Copies</source>
         <translation>&amp;Несколько копий</translation>
     </message>
@@ -7075,55 +6622,46 @@ Please choose the unit you want to use for new drawings and your preferred langu
     <name>QG_DlgOptionsDrawing</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1741"/>
         <source>Drawing Preferences</source>
         <translation>Параметры чертежа</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="34"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1769"/>
         <source>&amp;Paper</source>
         <translation>&amp;Бумага</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="44"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1742"/>
         <source>Format</source>
         <translation>Формат</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="66"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1743"/>
         <source>&amp;Height:</source>
         <translation>&amp;Высота:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="82"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1744"/>
         <source>&amp;Width:</source>
         <translation>&amp;Ширина:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="102"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1745"/>
         <source>Orientation</source>
         <translation>Ориентация</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="108"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1746"/>
         <source>&amp;Landscape</source>
         <translation>&amp;Альбомный</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="115"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1747"/>
         <source>P&amp;ortrait</source>
         <translation>По&amp;ртретный</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="138"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1748"/>
         <source>Margins</source>
         <translation>Поля</translation>
     </message>
@@ -7131,17 +6669,12 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="152"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="212"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="657"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1750"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1761"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1796"/>
         <source>Left</source>
         <translation>Слева</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="165"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="185"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1753"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1758"/>
         <source>Bottom</source>
         <translation>Снизу</translation>
     </message>
@@ -7149,9 +6682,6 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="178"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="205"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="701"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1756"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1760"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1804"/>
         <source>Right</source>
         <translation>Справа</translation>
     </message>
@@ -7159,27 +6689,21 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="195"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="228"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="679"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1759"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1763"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1800"/>
         <source>Top</source>
         <translation>Сверху</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="240"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1765"/>
         <source>Number of pages</source>
         <translation>Количество страниц</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="246"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1766"/>
         <source>Horizontally:</source>
         <translation>Горизонтально:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="263"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1767"/>
         <source>Vertically:</source>
         <translation>Вертикально:</translation>
     </message>
@@ -7187,155 +6711,127 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="285"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="450"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="546"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1768"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1775"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1780"/>
         <source>Preview</source>
         <translation>Просмотр</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="326"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1782"/>
         <source>&amp;Units</source>
         <translation>&amp;Единицы измерения</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="332"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1770"/>
         <source>Main Unit</source>
         <translation>Основная единица измерения</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="338"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1771"/>
         <source>&amp;Main drawing unit:</source>
         <translation>&amp;Основная единица измерения чертежа:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="377"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1772"/>
         <source>Length</source>
         <translation>Длина</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="383"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1773"/>
         <source>&amp;Format:</source>
         <translation>&amp;Формат:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="402"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1774"/>
         <source>P&amp;recision:</source>
         <translation>То&amp;чность:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="456"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1776"/>
         <source>linear</source>
         <translation>линейный</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="473"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1777"/>
         <source>Angle</source>
         <translation>Угол</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="479"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1778"/>
         <source>F&amp;ormat:</source>
         <translation>Ф&amp;ормат:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="527"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1779"/>
         <source>Pre&amp;cision:</source>
         <translation>Точ&amp;ность:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="552"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1781"/>
         <source>angular</source>
         <translation>угловой</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="570"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1812"/>
         <source>&amp;Grid</source>
         <translation>&amp;Сетка</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="582"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1783"/>
         <source>Grid Settings</source>
         <translation>Параметры сетки</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="588"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1784"/>
         <source>Show Grid</source>
         <translation>Отображать сетку</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="595"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1786"/>
         <source>Use orthogonal grid</source>
         <translation>Использовать прямоугольную сетку</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="598"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1788"/>
         <source>Orthogonal Grid</source>
         <translation>Прямоугольная сетка</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="608"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1790"/>
         <source>Use isometric grid</source>
         <translation>Использовать изометрическую сетку</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="611"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1792"/>
         <source>Isometric Grid</source>
         <translation>Изометрическая сетка</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="654"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1794"/>
         <source>Left crosshair with isometric grid</source>
         <translation>Левое перекрестье на изометрической сетке</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="676"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1798"/>
         <source>Top crosshair with isometric grid</source>
         <translation>Верхнее перекрестье на изометрической сетке</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="698"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1802"/>
         <source>Right crosshair with isometric grid</source>
         <translation>Правое перекрестье на изометрической сетке</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="720"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1805"/>
         <source>Crosshair</source>
         <translation>Перекрестье</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="741"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1806"/>
         <source>X Spacing:</source>
         <translation>Промежуток по X:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="761"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="803"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1807"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1810"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.cpp" line="253"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.cpp" line="256"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.cpp" line="550"/>
@@ -7345,37 +6841,31 @@ Please choose the unit you want to use for new drawings and your preferred langu
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="789"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1809"/>
         <source>Y Spacing:</source>
         <translation>Промежуток по Y:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="860"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1891"/>
         <source>&amp;Dimensions</source>
         <translation>&amp;Размеры</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="885"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1813"/>
         <source>Text style:</source>
         <translation>Стиль текста:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="893"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1814"/>
         <source>&apos;.&apos; (Period)</source>
         <translation>. (точка)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="898"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1815"/>
         <source>&apos;,&apos; (Comma)</source>
         <translation>, (запятая)</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="906"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1817"/>
         <source>Decimal separator:</source>
         <translation>Десятичный разделитель:</translation>
     </message>
@@ -7387,19 +6877,11 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1469"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1479"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1527"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1818"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1819"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1828"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1858"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1872"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1873"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1878"/>
         <source>units</source>
         <translation>единицы измерения</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="933"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1820"/>
         <source>Linear units:</source>
         <translation>Линейные единицы:</translation>
     </message>
@@ -7407,221 +6889,182 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="949"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1384"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1571"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1821"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1861"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1883"/>
         <source>Color:</source>
         <translation>Цвет:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="959"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1822"/>
         <source>Length Factor:</source>
         <translation>Коэффициент длины:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="969"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1825"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Scale to multiply all dimension values.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Масштабный множитель всех параметров размера.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1047"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1827"/>
         <source>Tick size:</source>
         <translation>Длина засечки:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1086"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1829"/>
         <source>Angular units:</source>
         <translation>Угловые единицы:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1099"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1830"/>
         <source>Text Height:</source>
         <translation>Высота текста:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1109"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1831"/>
         <source>Linear zeros:</source>
         <translation>Линейные нули:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1116"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1834"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dimension Tick size. Set it to 0 will disable the dimension tick. Dimension arrow won&apos;t be drawn when dimension tick is enabled.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Засечки на размерных линиях. Установите 0 для отключения засечек. Стрелок на концах размерных линий не будет, если засечки включены.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1146"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1836"/>
         <source>Format units</source>
         <translation>Единицы формата</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1153"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1839"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Distance gap around text&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Отступ вокруг текста&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1178"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1843"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Scale to multiply all dimension geometries.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Масштабный коэффициент размеров.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1226"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1845"/>
         <source>Text size &amp; position</source>
         <translation>Размер и положение текста</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1233"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1846"/>
         <source>General Scale:</source>
         <translation>Общий масштаб:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1271"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1850"/>
         <source>Length to enlarge over dimension line</source>
         <translation>Длина увеличения размерной линии</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1296"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1854"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dimension arrow size. &lt;a name=&quot;result_box&quot;/&gt;without effect when tick size &lt;a name=&quot;result_box&quot;/&gt;is other than 0&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Размер стрелок.&lt;a name=&quot;result_box&quot;/&gt;Не имеет эффекта, если размер засечки&lt;a name=&quot;result_box&quot;/&gt;не равен 0&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1337"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1856"/>
         <source>Arrow size:</source>
         <translation>Величина стрелки:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1350"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1578"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1857"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1884"/>
         <source>Width:</source>
         <translation>Ширина:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1370"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1859"/>
         <source>Dimension lines, arrows &amp; ticks</source>
         <translation>Размерные линии, стрелки и засечки</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1377"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1860"/>
         <source>Angular zeros:</source>
         <translation>Угловые нули:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1391"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1862"/>
         <source>Angular precision:</source>
         <translation>Угловая точность:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1404"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1863"/>
         <source>Enlarge:</source>
         <translation>Увеличить:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1414"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1864"/>
         <source>Offset:</source>
         <translation>Сместить:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1427"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1865"/>
         <source>Linear precision:</source>
         <translation>Линейная точность:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1446"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1870"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Text alignment &lt;a name=&quot;result_box&quot;/&gt;relative to the dimension line.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выравнивание текста&lt;a name=&quot;result_box&quot;/&gt;относительно размерной линии.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1456"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1866"/>
         <source>Aligned</source>
         <translation>Выровненный</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1461"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1867"/>
         <source>Horizontal</source>
         <translation>Горизонтальный</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1502"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1876"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Offset from origin point.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Смещение от точки отсчёта.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1534"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1879"/>
         <source>Text alignment:</source>
         <translation>Выравнивание текста:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1544"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1880"/>
         <source>Dimension line gap:</source>
         <translation>Расстояние от текста до размерной линии:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1554"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1881"/>
         <source>Extension lines</source>
         <translation>Линии-выноски</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1561"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1882"/>
         <source>Fixed length:</source>
         <translation>Фиксированная длина:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1598"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1889"/>
         <source>fixed extension line length</source>
         <translation>фиксированная длина внутренней линии</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1609"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1894"/>
         <source>&amp;Splines</source>
         <translation>&amp;Сплайны</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1617"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1892"/>
         <source>Number of line segments per spline patch:</source>
         <translation>Количество сегментов по длине сплайна:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1683"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1921"/>
         <source>&amp;Points</source>
         <translation>&amp;Точки</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="1692"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1895"/>
         <source>Point Style</source>
         <translation>Стиль точек</translation>
     </message>
@@ -7646,57 +7089,32 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="2424"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="2465"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="2506"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1896"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1897"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1898"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1899"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1900"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1901"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1902"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1903"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1904"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1905"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1906"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1907"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1908"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1909"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1910"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1911"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1912"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1913"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1914"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1915"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="2557"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1916"/>
         <source>Point Size</source>
         <translation>Размер точки</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="2592"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1917"/>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.cpp" line="1106"/>
         <source>Dwg Units</source>
         <translation>Единицы измерения Dwg</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="2629"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1918"/>
         <source>Size relative to screen</source>
         <translation>Относительно экрана</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="2642"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1919"/>
         <source>Size in drawing units</source>
         <translation>В чертежных единицах</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsdrawing.ui" line="2669"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsdrawing.h" line="1920"/>
         <source>(0 =&gt; 5% relative to screen size)</source>
         <translation>(0 =&gt; 5% относительно размера экрана)</translation>
     </message>
@@ -8201,97 +7619,81 @@ Please choose the unit you want to use for new drawings and your preferred langu
     <name>QG_DlgOptionsMakerCam</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="20"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="259"/>
         <source>Export as CAM/plain SVG</source>
         <translation>Экспорт в CAM/SVG</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="38"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="260"/>
         <source>Layers</source>
         <translation>Слои</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="48"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="261"/>
         <source>Default width of elements, mm</source>
         <translation>Ширина элементов по умолчанию, мм</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="73"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="262"/>
         <source>Export invisible layers</source>
         <translation>Экспорт невидимых слоёв</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="80"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="263"/>
         <source>Export visible construction layers</source>
         <translation>Экспорт видимых вспомогательных слоёв</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="92"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="264"/>
         <source>Blocks</source>
         <translation>Блоки</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="100"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="265"/>
         <source>Convert blocks to safe inline SVG content</source>
         <translation>Преобразование блоков в безопасное линейное SVG содержимое</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="115"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="266"/>
         <source>Ellipses / Ellipse arcs</source>
         <translation>Эллипсы и эллиптические дуги</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="123"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="267"/>
         <source>Approximate ellipses and ellipse arcs with cubic béziers</source>
         <translation>Аппроксимировать эллипсы и эллиптические дуги кубическими кривыми Безье</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="135"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="268"/>
         <source>Images</source>
         <translation>Изображения</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="143"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="269"/>
         <source>Raster Image export</source>
         <translation>Экспорт растровых изображений</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="155"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="270"/>
         <source>Dash/Dot Lines</source>
         <translation>Штриховые/пунктирные линии</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="165"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="271"/>
         <source>Length of the pattern, mm</source>
         <translation>Длина чертежа, мм</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="187"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="272"/>
         <source>Bake dash/dot lines to SVG path</source>
         <translation>Преобразать штриховые/пунктирные линии в SVG</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="199"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="273"/>
         <source>Points</source>
         <translation>Точки</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgoptionsmakercam.ui" line="207"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgoptionsmakercam.h" line="274"/>
         <source>Export Points</source>
         <translation>Экспортировать точки</translation>
     </message>
@@ -8399,31 +7801,26 @@ so default step value required for baking</source>
     <name>QG_DlgPoint</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgpoint.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgpoint.h" line="165"/>
         <source>Point</source>
         <translation>Точка</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgpoint.ui" line="44"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgpoint.h" line="166"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgpoint.ui" line="71"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgpoint.h" line="167"/>
         <source>Geometry</source>
         <translation>Геометрия</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgpoint.ui" line="77"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgpoint.h" line="168"/>
         <source>Position (y):</source>
         <translation>Координата (y):</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgpoint.ui" line="97"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgpoint.h" line="169"/>
         <source>Position (x):</source>
         <translation>Координата (x):</translation>
     </message>
@@ -8432,25 +7829,21 @@ so default step value required for baking</source>
     <name>QG_DlgPolyline</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgpolyline.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgpolyline.h" line="147"/>
         <source>Polyline</source>
         <translation>Ломаная</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgpolyline.ui" line="44"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgpolyline.h" line="148"/>
         <source>Layer:</source>
         <translation>Слой:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgpolyline.ui" line="77"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgpolyline.h" line="149"/>
         <source>Geometry</source>
         <translation>Геометрия</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgpolyline.ui" line="115"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgpolyline.h" line="150"/>
         <source>Closed</source>
         <translation>Закрыта</translation>
     </message>
@@ -9567,97 +8960,81 @@ so default step value required for baking</source>
     <name>QG_ImageOptionsDialog</name>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="14"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="269"/>
         <source>Image Export Options</source>
         <translation>Параметры экспорта изображения</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="23"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="270"/>
         <source>Bitmap Size</source>
         <translation>Размер растра</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="29"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="271"/>
         <source>Resolution:</source>
         <translation>Разрешение:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="43"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="272"/>
         <source>auto</source>
         <translation>авто</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="144"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="274"/>
         <source>Width:</source>
         <translation>Ширина:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="154"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="275"/>
         <source>Height:</source>
         <translation>Высота:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="203"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="276"/>
         <source>Background</source>
         <translation>Фон</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="209"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="277"/>
         <source>White</source>
         <translation>Белый</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="219"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="278"/>
         <source>B&amp;lack</source>
         <translation>&amp;Чёрный</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="258"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="279"/>
         <source>Colouring</source>
         <translation>Цветность</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="264"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="280"/>
         <source>Black / White</source>
         <translation>Черно-белый</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="274"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="281"/>
         <source>Coloured</source>
         <translation>Цветное</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="310"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="282"/>
         <source>Borders</source>
         <translation>Границы</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="326"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="284"/>
         <source>Top / Bottom - Border:</source>
         <translation>Верхняя/нижняя граница:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="333"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="285"/>
         <source>Left / Right - Border:</source>
         <translation>Левая/правая граница:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dlgimageoptions.ui" line="353"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dlgimageoptions.h" line="286"/>
         <source>set same size</source>
         <translation>установить одинаковый размер</translation>
     </message>
@@ -10267,26 +9644,21 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/ui/forms/qg_widgetpen.ui" line="26"/>
         <location filename="../src/ui/forms/qg_widgetpen.ui" line="47"/>
-        <location filename="../../generated/librecad/ui/ui_qg_widgetpen.h" line="138"/>
-        <location filename="../../generated/librecad/ui/ui_qg_widgetpen.h" line="139"/>
         <source>Pen</source>
         <translation>Перо</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_widgetpen.ui" line="59"/>
-        <location filename="../../generated/librecad/ui/ui_qg_widgetpen.h" line="140"/>
         <source>Color:</source>
         <translation>Цвет:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_widgetpen.ui" line="75"/>
-        <location filename="../../generated/librecad/ui/ui_qg_widgetpen.h" line="141"/>
         <source>Width:</source>
         <translation>Ширина:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_widgetpen.ui" line="91"/>
-        <location filename="../../generated/librecad/ui/ui_qg_widgetpen.h" line="142"/>
         <source>Line type:</source>
         <translation>Тип линии:</translation>
     </message>
@@ -17500,19 +16872,16 @@ This block cannot be inserted.</source>
     <name>Ui_ArcOptions</name>
     <message>
         <location filename="../src/ui/forms/qg_arcoptions.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_arcoptions.h" line="109"/>
         <source>Arc Options</source>
         <translation>Параметры дуги</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_arcoptions.ui" line="77"/>
-        <location filename="../../generated/librecad/ui/ui_qg_arcoptions.h" line="112"/>
         <source>Counterclockwise</source>
         <translation>Против часовой стрелке</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_arcoptions.ui" line="122"/>
-        <location filename="../../generated/librecad/ui/ui_qg_arcoptions.h" line="116"/>
         <source>Clockwise</source>
         <translation>По часовой стрелке</translation>
     </message>
@@ -17521,32 +16890,27 @@ This block cannot be inserted.</source>
     <name>Ui_ArcTangentialOptions</name>
     <message>
         <location filename="../src/ui/forms/qg_arctangentialoptions.ui" line="26"/>
-        <location filename="../../generated/librecad/ui/ui_qg_arctangentialoptions.h" line="82"/>
         <source>Tangential Arc Options</source>
         <translation>Параметры касательной дуги</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_arctangentialoptions.ui" line="66"/>
-        <location filename="../../generated/librecad/ui/ui_qg_arctangentialoptions.h" line="84"/>
         <source>Radius of the tangential arc</source>
         <translation>Радиус касательной дуги</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_arctangentialoptions.ui" line="85"/>
-        <location filename="../../generated/librecad/ui/ui_qg_arctangentialoptions.h" line="87"/>
         <source>Total subtending angle of the tangential arc</source>
         <translation>Общий стягивающий угол касательной дуги</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_arctangentialoptions.ui" line="98"/>
-        <location filename="../../generated/librecad/ui/ui_qg_arctangentialoptions.h" line="89"/>
         <source>Radius</source>
         <extracomment>Draw Tangential Arc by the given radius</extracomment>
         <translation>Радиус</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_arctangentialoptions.ui" line="120"/>
-        <location filename="../../generated/librecad/ui/ui_qg_arctangentialoptions.h" line="90"/>
         <source>Angle</source>
         <extracomment>Draw Tangential Arc by the given radius</extracomment>
         <translation>Угол</translation>
@@ -17556,31 +16920,26 @@ This block cannot be inserted.</source>
     <name>Ui_BevelOptions</name>
     <message>
         <location filename="../src/ui/forms/qg_beveloptions.ui" line="32"/>
-        <location filename="../../generated/librecad/ui/ui_qg_beveloptions.h" line="111"/>
         <source>Bevel Options</source>
         <translation>Параметры фаски</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_beveloptions.ui" line="53"/>
-        <location filename="../../generated/librecad/ui/ui_qg_beveloptions.h" line="116"/>
         <source>Check to trim both entities to the bevel</source>
         <translation>Установите, чтобы подогнать два объекта к фаске</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_beveloptions.ui" line="56"/>
-        <location filename="../../generated/librecad/ui/ui_qg_beveloptions.h" line="118"/>
         <source>Trim</source>
         <translation>Подогнать</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_beveloptions.ui" line="79"/>
-        <location filename="../../generated/librecad/ui/ui_qg_beveloptions.h" line="119"/>
         <source>Length 1:</source>
         <translation>Длина 1:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_beveloptions.ui" line="92"/>
-        <location filename="../../generated/librecad/ui/ui_qg_beveloptions.h" line="120"/>
         <source>Length 2:</source>
         <translation>Длина 2:</translation>
     </message>
@@ -17589,13 +16948,11 @@ This block cannot be inserted.</source>
     <name>Ui_CircleOptions</name>
     <message>
         <location filename="../src/ui/forms/qg_circleoptions.ui" line="32"/>
-        <location filename="../../generated/librecad/ui/ui_qg_circleoptions.h" line="79"/>
         <source>Circle Options</source>
         <translation>Параметры окружности</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_circleoptions.ui" line="50"/>
-        <location filename="../../generated/librecad/ui/ui_qg_circleoptions.h" line="80"/>
         <source>Radius:</source>
         <translation>Радиус:</translation>
     </message>
@@ -17604,25 +16961,21 @@ This block cannot be inserted.</source>
     <name>Ui_CircleTan2Options</name>
     <message>
         <location filename="../src/ui/forms/qg_circletan2options.ui" line="32"/>
-        <location filename="../../generated/librecad/ui/ui_qg_circletan2options.h" line="84"/>
         <source>Circle Tangential2 Options</source>
         <translation>Параметры окружности касательной к двум объектам</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_circletan2options.ui" line="56"/>
-        <location filename="../../generated/librecad/ui/ui_qg_circletan2options.h" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Radius of the tangential circle to draw&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Радиус новой касательной окружности&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_circletan2options.ui" line="59"/>
-        <location filename="../../generated/librecad/ui/ui_qg_circletan2options.h" line="88"/>
         <source>Radius:</source>
         <translation>Радиус:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_circletan2options.ui" line="69"/>
-        <location filename="../../generated/librecad/ui/ui_qg_circletan2options.h" line="90"/>
         <source>Radius of tangential circle</source>
         <translation>Радиус касательной окружности</translation>
     </message>
@@ -17631,13 +16984,11 @@ This block cannot be inserted.</source>
     <name>Ui_DimLinearOptions</name>
     <message>
         <location filename="../src/ui/forms/qg_dimlinearoptions.ui" line="32"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimlinearoptions.h" line="119"/>
         <source>Linear Dimension Options</source>
         <translation>Параметры линейного размера</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimlinearoptions.ui" line="68"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimlinearoptions.h" line="120"/>
         <source>Angle:</source>
         <translation>Угол:</translation>
     </message>
@@ -17646,57 +16997,47 @@ This block cannot be inserted.</source>
     <name>Ui_DimOptions</name>
     <message>
         <location filename="../src/ui/forms/qg_dimoptions.ui" line="32"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimoptions.h" line="164"/>
         <source>Dimension Options</source>
         <translation>Параметры размера</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimoptions.ui" line="62"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimoptions.h" line="165"/>
         <source>Label:</source>
         <translation>Метка:</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimoptions.ui" line="109"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimoptions.h" line="167"/>
         <source>⌀</source>
         <translation>⌀</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimoptions.ui" line="114"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimoptions.h" line="168"/>
         <source>°</source>
         <translation>°</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimoptions.ui" line="119"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimoptions.h" line="169"/>
         <source>±</source>
         <translation>±</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimoptions.ui" line="124"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimoptions.h" line="170"/>
         <source>π</source>
         <translation>π</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimoptions.ui" line="129"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimoptions.h" line="171"/>
         <source>×</source>
         <translation>×</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimoptions.ui" line="134"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimoptions.h" line="172"/>
         <source>÷</source>
         <translation>÷</translation>
     </message>
     <message>
         <location filename="../src/ui/forms/qg_dimoptions.ui" line="142"/>
         <location filename="../src/ui/forms/qg_dimoptions.ui" line="163"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimoptions.h" line="174"/>
-        <location filename="../../generated/librecad/ui/ui_qg_dimoptions.h" line="175"/>
         <source>...</source>
         <translation>…</translation>
     </message>
